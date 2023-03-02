@@ -7,13 +7,13 @@ import Image from "next/image";
 
 const Footer = () => {
   return (
-    <div className="bg-white-300 pt-44 pb-24">
+    <div className="pb-24">
       <div className="w-full p-8 flex justify-center">
         <div className="w-full text-center ">
           <Image
               src="/assets/rjh_logo.png"
-              width={160}
-              height={40}
+              width={200}
+              height={60}
               alt="RJH"
             />
           <p className="mb-4">

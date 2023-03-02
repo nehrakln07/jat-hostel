@@ -13,10 +13,13 @@ export default function Projects() {
   const [data, setData] = useState([]);
   const optionData = DISTRICT.map((item, key)=>{return {name: item.name, value:item.url}})
   const url = typeof window !== 'undefined' ? new URL(window.location.href) : "";
-  const urlDistrict = url && url.searchParams && Object.keys(url.searchParams).length ? url.searchParams.get("district") : optionData[0].value;
+  const urlDistrict = url && url.search ? url.search.split("=")[1] : "";
+
   useEffect(()=>{
-    setSelectedDistrict(urlDistrict);
-    setData(projectsData[urlDistrict]);
+    if(urlDistrict){
+      setSelectedDistrict(urlDistrict);
+      setData(projectsData[urlDistrict]);
+    }
   },[urlDistrict])
   console.log({optionData, selectedDistrict, data})
   return (  
@@ -35,36 +38,39 @@ export default function Projects() {
             {
               optionData.map((item, key)=>{
                 return(
-                  <option key={key} value={item.item}>{item.name}</option>
+                  <option key={key} value={item.value}>{item.name}</option>
                 )
               })
             }
           </select>
         </div>
-        <div className="container py-4">
-          <div className="w-full">
+        {
+          selectedDistrict &&
+          <div className="container py-4">
             <div className="w-full">
-              <h2 className="w-full text-3xl font-bold">
-                {`Hostels in ${selectedDistrict}`}
-              </h2>
-              <div className="m-4 flex flex-wrap">
-                { data && data.length &&
-                  data.map((d) => {
-                    return (
-                      <Card
-                        key={d.title}
-                        title={d.title}
-                        description={d.description}
-                        imgSrc={d.imgSrc}
-                        href={`hostel-detail?hostel=${d.href}`}
-                      />
-                    )
-                  })
-                }
+              <div className="w-full">
+                <h2 className="w-full text-3xl font-bold">
+                  {`Hostels in ${selectedDistrict}`}
+                </h2>
+                <div className="m-4 flex flex-wrap">
+                  { data && data.length &&
+                    data.map((d) => {
+                      return (
+                        <Card
+                          key={d.title}
+                          title={d.title}
+                          description={d.description}
+                          imgSrc={d.imgSrc}
+                          href={`hostel-detail?hostel=${d.href}`}
+                        />
+                      )
+                    })
+                  }
+                </div>
               </div>
             </div>
           </div>
-        </div>
+        }
       </div>
     </Layout>
   )

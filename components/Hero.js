@@ -11,14 +11,16 @@ const Hero = () => {
 
   return (
     <div
-      className="max-w-screen-xl mt-24 px-8 xl:px-16 mx-auto"
+      className="max-w-screen-xl mt-24 mb-24 px-8 xl:px-16 mx-auto"
       id="about"
     >
       <ScrollAnimationWrapper>
-        <motion.div className="text-center"
+        <motion.div className="flex text-center"
           variants={scrollAnimation}>
-          <p className="text-4xl text-bold text-green-500"><span className="text-orange-500">जाट </span>बलवान - जय भगवान</p>
-          <p className="text-4xl text-bold text-green-500">जय जवान - जय किसान</p>
+            <div className="w-full my-10">
+              <p className="text-4xl text-bold text-green-500"><span className="text-orange-500">जाट </span>बलवान - जय भगवान</p>
+              <p className="text-4xl text-bold text-green-500">जय जवान - जय किसान</p>
+            </div>
         </motion.div>
       </ScrollAnimationWrapper>
       <ScrollAnimationWrapper>
@@ -26,25 +28,27 @@ const Hero = () => {
           className="grid grid-flow-row sm:grid-flow-col grid-rows-2 md:grid-rows-1 sm:grid-cols-2 gap-8 py-6 sm:py-16"
           variants={scrollAnimation}>
           <div className="flex w-full">
-            <motion.div className="h-full w-full" variants={scrollAnimation}>
+            <motion.div className="w-full h-full	" variants={scrollAnimation}>
               <Image
                 src="/assets/veer-tejaji.jpg"
                 alt="VPN Illustrasi"
                 quality={100}
-                width={612}
-                height={383}
+                width={546}
+                height={500}
+                // fill
                 layout="responsive"
               />
             </motion.div>
           </div>
           <div className="flex w-full">
-            <motion.div className="h-full w-full" variants={scrollAnimation}>
+            <motion.div className="w-full h-full" variants={scrollAnimation}>
               <Image
                 src="/assets/surajmal.jpeg"
                 alt="VPN Illustrasi"
                 quality={100}
-                width={612}
-                height={383}
+                width={546}
+                height={500}
+                // fill
                 layout="responsive"
               />
             </motion.div>
