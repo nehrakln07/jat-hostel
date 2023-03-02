@@ -8,8 +8,8 @@ const projectsData = {
       "title": "श्री वीर तेजा जाट छात्रावास, ब्यावर",
       "description": "Ajmer",
       "imgSrc": '/assets/hostel/ajmer/sri-veer-teja-jat-hostel-byaver.jpg', //missing
-      "data": '/assets/hostel/ajmer/sri-veer-teja-jat-hostel-byaver.pdf', 
-      "href": "sri-veer-teja-jat-hostel-byaver",
+      "data": '/assets/hostel/ajmer/ajmer-sri-veer-teja-jat-hostel-byaver.pdf', 
+      "href": "ajmer-sri-veer-teja-jat-hostel-byaver.pdf",
       "status":  "working"
     },
     {
@@ -17,8 +17,8 @@ const projectsData = {
       "title": "श्री किसान छात्रावास समिति, केकड़ी",
       "description": "Ajmer",
       "imgSrc": '/assets/hostel/ajmer/sri-kisan-hostel-kekri.jpg', //missing
-      "data": '/assets/hostel/ajmer/sri-kisan-hostel-kekri.pdf', 
-      "href": "sri-kisan-hostel-kekri",
+      "data": '/assets/hostel/ajmer/ajmer-sri-kisan-hostel-kekri.pdf', 
+      "href": "ajmer-sri-kisan-hostel-kekri.pdf",
       "status":  "working"
     },
     {
@@ -26,8 +26,8 @@ const projectsData = {
       "title": "जाट छात्रावास, विजयनगर",
       "description": "Ajmer",
       "imgSrc": '/assets/hostel/ajmer/vijaynagar.jpg',//missing
-      "data": '/assets/hostel/ajmer/vijay-nagar.pdf',  
-      "href": "vijay-nagar",
+      "data": '/assets/hostel/ajmer/ajmer-vijay-nagar.pdf',  
+      "href": "ajmer-vijay-nagar.pdf",
       "status":  "working"
     },
     {
@@ -36,7 +36,7 @@ const projectsData = {
       "description": "Ajmer",
       "imgSrc": '/assets/hostel/ajmer/ajmer.jpg',  //missing
       "data": '/assets/hostel/ajmer/ajmer.pdf', 
-      "href": "ajmer",
+      "href": "ajmer.pdf",
       "status":  "working"
     },
     {
@@ -44,8 +44,8 @@ const projectsData = {
       "title": "जाट छात्रावास, किशनगढ़",
       "description": "Ajmer",
       "imgSrc": '/assets/hostel/ajmer/kishangarh.jpg', //missing
-      "data": '/assets/hostel/ajmer/kishangarh.pdf', 
-      "href": "kishangarh",
+      "data": '/assets/hostel/ajmer/ajmer-kishangarh.pdf', 
+      "href": "ajmer-kishangarh.pdf",
       "status":  "working"
     },
     {
@@ -53,8 +53,8 @@ const projectsData = {
       "title": "जाट छात्रावास सुरसरा, अजमेर",
       "description": "Ajmer",
       "imgSrc": '/assets/hostel/ajmer/sursara-ajmer.jpg', //missing
-      "data": '/assets/hostel/ajmer/sursara-ajmer.pdf', 
-      "href": "sursara-ajmer",
+      "data": '/assets/hostel/ajmer/ajmer-sursara-ajmer.pdf', 
+      "href": "ajmer-sursara-ajmer.pdf",
       "status":  "working"
     },
   ],
@@ -65,8 +65,8 @@ const projectsData = {
       "title": "श्री जाट छात्रावास, लक्ष्मणगढ़",
       "description": "Alwar",
       "imgSrc": '/assets/hostel/alwar/laxmangarh-alwar.jpg', //missing
-      "data": '/assets/hostel/alwar/laxmangarh-alwar.pdf', 
-      "href": "laxmangarh-alwar",
+      "data": '/assets/hostel/alwar/alwar-laxmangarh-alwar.pdf', 
+      "href": "alwar-laxmangarh-alwar.pdf",
       "status":  "working"
     },
     {
@@ -74,8 +74,8 @@ const projectsData = {
       "title": "महाराजा सुरजमल छात्रावास समिति, बानसूर, अलवर",
       "description": "Alwar",
       "imgSrc": '/assets/hostel/alwar/bansur-alwar.jpg', //missing
-      "data": '/assets/hostel/alwar/bansur-alwar.pdf', 
-      "href": "bansur-alwar",
+      "data": '/assets/hostel/alwar/alwar-bansur-alwar.pdf', 
+      "href": "alwar-bansur-alwar.pdf",
       "status":  "working"
     },
     {
@@ -83,8 +83,8 @@ const projectsData = {
       "title": "जाट छात्रावास, अलवर",
       "description": "Alwar",
       "imgSrc": '/assets/hostel/alwar/jat-hostel-boys-alwar.jpg',//missing
-      "data": '/assets/hostel/alwar/jat-hostel-boys-alwar.pdf',  
-      "href": "jat-hostel-boys-alwar",
+      "data": '/assets/hostel/alwar/alwar-jat-hostel-boys-alwar.pdf',  
+      "href": "alwar-jat-hostel-boys-alwar.pdf",
       "status":  "working"
     },
     {
@@ -93,7 +93,7 @@ const projectsData = {
       "description": "Alwar",
       "imgSrc": '/assets/hostel/alwar/balika-alwar.jpg',  //missing
       "data": '/assets/hostel/alwar/balika-alwar.pdf',  //missing
-      "href": "balika-alwar",
+      "href": "balika-alwar.pdf",
       "status":  "working"
     }
   ],
@@ -104,8 +104,8 @@ const projectsData = {
       "title": "किसान कन्या छात्रावास बलदेव नगर, बाड़मेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/kisan-kanya-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/kisan-kanya-barmer.pdf',  //missing
-      "href": "kisan-girls-barmer",
+      "data": '/assets/hostel/barmer/barmer-kisan-kanya-barmer.pdf',  //missing
+      "href": "barmer-kisan-girls-barmer.pdf",
       "status":  "working"
     },
     {
@@ -114,7 +114,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/Baldev-ram-chohtan-barmer.jpg',  //missing
       "data": '/assets/hostel/barmer/Baldev-ram-chohtan-barmer.pdf',  //missing
-      "href": "baldev-ram-mirdha-chohtan-barmer",
+      "href": "baldev-ram-mirdha-chohtan-barmer.pdf",
       "status":  "working"
     },
     {
@@ -123,7 +123,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/kisan-girls-chohtan-barmer.jpg',  //missing
       "data": '/assets/hostel/barmer/Baldev-ram-chohtan-barmer.pdf',  //missing
-      "href": "kisan-girls-chohtan-barmer",
+      "href": "kisan-girls-chohtan-barmer.pdf",
       "status":  "working"
     },
     {
@@ -132,7 +132,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/tejaji-boys-balotara-barmer.jpg',  //missing
       "data": '/assets/hostel/barmer/tejaji-boys-balotara-barmer.pdf',  //missing
-      "href": "tejaji-boys-balotara-barmer",
+      "href": "tejaji-boys-balotara-barmer.pdf",
       "status":  "working"
     },
     {
@@ -140,8 +140,8 @@ const projectsData = {
       "title": "वीर तेजाजी बालिका छात्रावास, न्यू बस स्टैण्ड, बालोतरा",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/tejaji-girls-balotara-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/tejaji-girls-balotara-barmer.pdf',  
-      "href": "tejaji-girls-balotara-barmer",
+      "data": '/assets/hostel/barmer/barmer-tejaji-girls-balotara-barmer.pdf',  
+      "href": "barmer-tejaji-girls-balotara-barmer.pdf",
       "status":  "working"
     },
     {
@@ -150,7 +150,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/kisan-hostel-dhorimanna-barmer.jpg',  //missing
       "data": '/assets/hostel/barmer/kisan-hostel-dhorimanna-barmer.pdf',   //missing
-      "href": "kisan-hostel-dhorimanna-barmer",
+      "href": "kisan-hostel-dhorimanna-barmer.pdf",
       "status":  "working"
     },
     {
@@ -158,8 +158,8 @@ const projectsData = {
       "title": "चौधरी चरण सिंह किसान छात्रावास, सिणधरी",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/charan-singh-sindhari-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/charan-singh-sindhari-barmer.pdf',   
-      "href": "charan-singh-sindhari-barmer",
+      "data": '/assets/hostel/barmer/barmer-charan-singh-sindhari-barmer.pdf',   
+      "href": "barmer-charan-singh-sindhari-barmer.pdf",
       "status":  "working"
     },
     {
@@ -167,8 +167,8 @@ const projectsData = {
       "title": "श्री हरलाल जाट छात्रावास विकास संस्थान, बाड़मेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/harlal-hostel-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/harlal-hostel-barmer.pdf',   
-      "href": "harlal-hostel-barmer",
+      "data": '/assets/hostel/barmer/barmer-harlal-hostel-barmer.pdf',   
+      "href": "barmer-harlal-hostel-barmer.pdf",
       "status":  "working"
     },
     {
@@ -176,8 +176,8 @@ const projectsData = {
       "title": "श्री बलदेव राम मिर्धा शिक्षण संस्थान कल्याणपुर, बाड़मेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/baldev-ram-kalyanpur-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/baldev-ram-kalyanpur-barmer.pdf',   
-      "href": "baldev-ram-kalyanpur-barmer",
+      "data": '/assets/hostel/barmer/barmer-baldev-ram-kalyanpur-barmer.pdf',   
+      "href": "barmer-baldev-ram-kalyanpur-barmer.pdf",
       "status":  "working"
     },
     {
@@ -185,8 +185,8 @@ const projectsData = {
       "title": "श्री बलदेव राम मिर्धा कन्या शिक्षण संस्थान कल्याणपुर, बाड़मेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/baldev-ram-girls-kalyanpur-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/baldev-ram-girls-kalyanpur-barmer.pdf',   
-      "href": "baldev-ram-girls-kalyanpur-barmer",
+      "data": '/assets/hostel/barmer/barmer-baldev-ram-girls-kalyanpur-barmer.pdf',   
+      "href": "barmer-baldev-ram-girls-kalyanpur-barmer.pdf",
       "status":  "working"
     },
     {
@@ -194,8 +194,8 @@ const projectsData = {
       "title": "श्री चौधरी रामदान शिक्षण संस्थान, रामसर, बाड़मेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/ramdan-hostel-ramsar-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/ramdan-hostel-ramsar-barmer.pdf',   
-      "href": "ramdan-hostel-ramsar-barmer",
+      "data": '/assets/hostel/barmer/barmer-ramdan-hostel-ramsar-barmer.pdf',   
+      "href": "barmer-ramdan-hostel-ramsar-barmer.pdf",
       "status":  "working"
     },
     {
@@ -203,8 +203,8 @@ const projectsData = {
       "title": "किसान बोर्डिंग हॉउस संस्थान, बाड़मेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/kisan-boarding-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/kisan-boarding-barmer.pdf',   
-      "href": "kisan-boarding-barmer",
+      "data": '/assets/hostel/barmer/barmer-kisan-boarding-barmer.pdf',   
+      "href": "barmer-kisan-boarding-barmer.pdf",
       "status":  "working"
     },
     {
@@ -213,7 +213,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/baytu.jpg',  //missing
       "data": '/assets/hostel/barmer/baytu.pdf',    //missing
-      "href": "baytu",
+      "href": "baytu.pdf",
       "status":  "under-development"
     },
     {
@@ -222,7 +222,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/gudamalani.jpg',  //missing
       "data": '/assets/hostel/barmer/gudamalani.pdf',    //missing
-      "href": "gudamalani",
+      "href": "gudamalani.pdf",
     },
     ,
     {
@@ -231,7 +231,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/gudamalani.jpg',  //missing
       "data": '/assets/hostel/barmer/gudamalani.pdf',    //missing
-      "href": "gudamalani",
+      "href": "gudamalani.pdf",
     }
     ,
     {
@@ -239,24 +239,24 @@ const projectsData = {
       "title": "श्री बलदेव राम मिर्धा किसान छात्रावास, शिव",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/sheo.jpg',  //missing
-      "data": '/assets/hostel/barmer/sheo.pdf',   
-      "href": "sheo",
+      "data": '/assets/hostel/barmer/barmer-sheo.pdf',   
+      "href": "barmer-sheo.pdf",
     },
     {
       "id": 17,
       "title": "श्री बलदेव राम मिर्धा किसान छात्रावास, धनाऊ",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/dhanau.jpg',  //missing
-      "data": '/assets/hostel/barmer/dhanau.pdf',    //missing
-      "href": "dhanau",
+      "data": '/assets/hostel/barmer/barmer-dhanau.pdf',    //missing
+      "href": "barmer-dhanau.pdf",
     },
     {
       "id": 18,
       "title": "श्री नाथूराम मिर्धा बालिका छात्रावास , सिणधरी",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/sindhari-girls.jpg',  //missing
-      "data": '/assets/hostel/barmer/sindhari-girls.pdf', 
-      "href": "sindhari-girls",
+      "data": '/assets/hostel/barmer/barmer-sindhari-girls.pdf', 
+      "href": "barmer-sindhari-girls.pdf",
     },
     {
       "id": 18,
@@ -264,7 +264,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/virendra-memorial-barmer.jpg',  //missing
       "data": '/assets/hostel/barmer/virendra-memorial-barmer.pdf',  //missing
-      "href": "virendra-memorial-barmer",
+      "href": "virendra-memorial-barmer.pdf",
       "status":  "under construction"
     },
     {
@@ -272,8 +272,8 @@ const projectsData = {
       "title": "बलदेव राम मिर्धा छात्रावास, जोधपुर रोड़, बाड़मेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/baldev-ram-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/baldev-ram-barmer.pdf', 
-      "href": "baldev-ram-barmer",
+      "data": '/assets/hostel/barmer/barmer-baldev-ram-barmer.pdf', 
+      "href": "barmer-baldev-ram-barmer.pdf",
     },
     {
       "id": 20,
@@ -281,15 +281,15 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/sedwa.jpg',  //missing
       "data": '/assets/hostel/barmer/sedwa.pdf', //missing
-      "href": "sedwa",
+      "href": "sedwa.pdf",
     },
     {
       "id": 21,
       "title": "चौधरी रामदान किसान छात्रावास, भीमडा",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/bhimda.jpg',  //missing
-      "data": '/assets/hostel/barmer/bhimda.pdf', 
-      "href": "bhimda",
+      "data": '/assets/hostel/barmer/barmer-bhimda.pdf', 
+      "href": "barmer-bhimda.pdf",
     },
     {
       "id": 22,
@@ -297,31 +297,23 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/jat-charitable-barmer.jpg',  //missing
       "data": '/assets/hostel/barmer/jat-charitable-barmer.pdf', //missing
-      "href": "jat-charitable-barmer",
+      "href": "jat-charitable-barmer.pdf",
     },
     {
       "id": 23,
-      "title": "श्री जाट चेरिटेबल ट्रस्ट, बाड़मेर",
-      "description": "Barmer",
-      "imgSrc": '/assets/hostel/barmer/jat-charitable-barmer.jpg',  //missing
-      "data": '/assets/hostel/barmer/jat-charitable-barmer.pdf', //missing
-      "href": "jat-charitable-barmer",
-    },
-    {
-      "id": 24,
       "title": "युवा चोपाल ट्रस्ट, बाडमेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/yuva-choupal-barmer.jpg',  //missing
       "data": '/assets/hostel/barmer/yuva-choupal-barmer.pdf', //missing
-      "href": "yuva-choupal-barmer",
+      "href": "yuva-choupal-barmer.pdf",
     },
     {
-      "id": 25,
+      "id": 24,
       "title": "सेठ रामलाल सऊ चौथी देवी ट्रस्ट, बाडमेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer/seth-ramlal-barmer.jpg',  //missing
       "data": '/assets/hostel/barmer/seth-ramlal-barmer.pdf', //missing
-      "href": "yuva-choupal-barmer",
+      "href": "seth-ramlal-barmer.pdf",
     }
   ]
 ,
@@ -331,8 +323,8 @@ const projectsData = {
       "title": "श्री शिव जाट छात्रावास समिति, शाहपुरा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/bhilwara/shahpura-bhilwara.jpg',  //missing
-      "data": '/assets/hostel/bhilwara/shahpura-bhilwara.pdf',  
-      "href": "shahpura-bhilwara",
+      "data": '/assets/hostel/bhilwara/bhilwara-shahpura-bhilwara.pdf',  
+      "href": "bhilwara-shahpura-bhilwara.pdf",
       "status":  "working"
     },
     {
@@ -340,8 +332,8 @@ const projectsData = {
       "title": "वीर तेजा जाट छात्रावास, भीलवाड़ा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/bhilwara/teja-jat-bhilwara.jpg',  //missing
-      "data": '/assets/hostel/bhilwara/teja-jat-bhilwara.pdf',  
-      "href": "teja-jat-bhilwara",
+      "data": '/assets/hostel/bhilwara/bhilwara-teja-jat-bhilwara.pdf',  
+      "href": "bhilwara-teja-jat-bhilwara.pdf",
       "status":  "working"
     },
     {
@@ -349,8 +341,8 @@ const projectsData = {
       "title": "बदनोर जाट समाज छात्रावास, गुलाबपुरा, भीलवाड़ा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/bhilwara/gulabpura-bhilwara.jpg',  //missing
-      "data": '/assets/hostel/bhilwara/gulabpura-bhilwara.pdf',  
-      "href": "gulabpura-bhilwara",
+      "data": '/assets/hostel/bhilwara/bhilwara-gulabpura-bhilwara.pdf',  
+      "href": "bhilwara-gulabpura-bhilwara.pdf",
       "status":  "working"
     },
     {
@@ -358,8 +350,8 @@ const projectsData = {
       "title": "जाट छात्रावास, गंगापुर, भीलवाड़ा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/bhilwara/gangapur-bhilwara.jpg',  //missing
-      "data": '/assets/hostel/bhilwara/gangapur-bhilwara.pdf',   //missing
-      "href": "gangapur-bhilwara",
+      "data": '/assets/hostel/bhilwara/bhilwara-gangapur-bhilwara.pdf',   //missing
+      "href": "bhilwara-gangapur-bhilwara.pdf",
       "status":  "working"
     },
     {
@@ -367,8 +359,8 @@ const projectsData = {
       "title": "कन्या छात्रावास, भीलवाड़ा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/bhilwara/girls-bhilwara.jpg',  //missing
-      "data": '/assets/hostel/bhilwara/girls-bhilwara.pdf',   //missing
-      "href": "girls-bhilwara",
+      "data": '/assets/hostel/bhilwara/bhilwara-girls-bhilwara.pdf',   //missing
+      "href": "bhilwara-girls-bhilwara.pdf",
       "status":  "working"
     }
   ],
@@ -378,8 +370,8 @@ const projectsData = {
     "title": "जाट छात्रावास जयपुर रोड़, बीकानेर",
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner/jat-hostel-bikaner.jpg',  //missing
-    "data": '/assets/hostel/bikaner/jat-hostel-bikaner.pdf',  
-    "href": "jat-hostel-bikaner",
+    "data": '/assets/hostel/bikaner/bikaner-jat-hostel-bikaner.pdf',  
+    "href": "bikaner-jat-hostel-bikaner.pdf",
     "status":  "working"
   },
   {
@@ -388,7 +380,7 @@ const projectsData = {
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner/nokha-bikaner.jpg',  //missing
     "data": '/assets/hostel/bikaner/nokha-bikaner.pdf',  //missing
-    "href": "nokha-bikaner",
+    "href": "nokha-bikaner.pdf",
     "status":  "working"
   },
   {
@@ -397,7 +389,7 @@ const projectsData = {
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner/lunkaransar-bikaner.jpg',  //missing
     "data": '/assets/hostel/bikaner/lunkaransar-bikaner.pdf',  
-    "href": "lunkaransar-bikaner",
+    "href": "lunkaransar-bikaner.pdf",
     "status":  "working"
   },
   {
@@ -405,8 +397,8 @@ const projectsData = {
     "title": "महर्षि दयानन्द जाट छात्रावास, श्रीडूंगरगढ़",
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner/sridungargarh-bikaner.jpg',  //missing
-    "data": '/assets/hostel/bikaner/sridungargarh-bikaner.pdf',  
-    "href": "sridungargarh-bikaner",
+    "data": '/assets/hostel/bikaner/bikaner-sridungargarh-bikaner.pdf',  
+    "href": "bikaner-sridungargarh-bikaner.pdf",
     "status":  "working"
   },
   {
@@ -414,8 +406,8 @@ const projectsData = {
     "title": "किसान छात्रावास रानी बाजार, बीकानेर",
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner/rani-bazaar-bikaner.jpg',  //missing
-    "data": '/assets/hostel/bikaner/rani-bazaar-bikaner.pdf',  
-    "href": "rani-bazaar-bikaner",
+    "data": '/assets/hostel/bikaner/bikaner-rani-bazaar-bikaner.pdf',  
+    "href": "bikaner-rani-bazaar-bikaner.pdf",
     "status":  "working"
   },
   {
@@ -424,7 +416,7 @@ const projectsData = {
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner/girls-bikaner.jpg',  //missing
     "data": '/assets/hostel/bikaner/girls-bikaner.pdf',   //missing
-    "href": "girls-bikaner",
+    "href": "girls-bikaner.pdf",
   }
 ],
 "chittorgarh": [
@@ -433,8 +425,8 @@ const projectsData = {
     "title": "श्री वीर तेजा जाट छात्रावास, चित्तौड़गढ़",
     "description": "Chittorgarh",
     "imgSrc": '/assets/hostel/chittorgarh/teja-boys-chittorgarh.jpg',  //missing
-    "data": '/assets/hostel/chittorgarh/teja-boys-chittorgarh.pdf',  
-    "href": "teja-boys-chittorgarh",
+    "data": '/assets/hostel/chittorgarh/chittorgarh-teja-boys-chittorgarh.pdf',  
+    "href": "chittorgarh-teja-boys-chittorgarh.pdf",
     "status":  "working"
   },
   {
@@ -442,8 +434,8 @@ const projectsData = {
     "title": "श्री वीर तेजा जाट बालिका छात्रावास, चित्तौड़गढ़",
     "description": "Chittorgarh",
     "imgSrc": '/assets/hostel/chittorgarh/teja-girls-chittorgarh.jpg',  //missing
-    "data": '/assets/hostel/chittorgarh/teja-girls-chittorgarh.pdf',  
-    "href": "teja-girls-chittorgarh",
+    "data": '/assets/hostel/chittorgarh/chittorgarh-teja-girls-chittorgarh.pdf',  
+    "href": "chittorgarh-teja-girls-chittorgarh.pdf",
     "status":  "working"
   },
   {
@@ -451,16 +443,16 @@ const projectsData = {
     "title": "जाट छात्रावास विकास संस्थान, कपासन",
     "description": "Chittorgarh",
     "imgSrc": '/assets/hostel/chittorgarh/kapasan-boys-chittorgarh.jpg',  //missing
-    "data": '/assets/hostel/chittorgarh/kapasan-boys-chittorgarh.pdf',  
-    "href": "kapasan-boys-chittorgarh",
+    "data": '/assets/hostel/chittorgarh/chittorgarh-kapasan-boys-chittorgarh.pdf',  
+    "href": "chittorgarh-kapasan-boys-chittorgarh.pdf",
   },
   {
     "id": 4,
     "title": "जाट बालिका छात्रावास, कपासन",
     "description": "Chittorgarh",
     "imgSrc": '/assets/hostel/chittorgarh/kapasan-girls-chittorgarh.jpg',  //missing
-    "data": '/assets/hostel/chittorgarh/kapasan-girls-chittorgarh.pdf',  
-    "href": "kapasan-girls-chittorgarh",
+    "data": '/assets/hostel/chittorgarh/chittorgarh-kapasan-girls-chittorgarh.pdf',  
+    "href": "chittorgarh-kapasan-girls-chittorgarh.pdf",
   }
 ],
 "churu": [
@@ -469,8 +461,8 @@ const projectsData = {
     "title": "वैदिक कन्या छात्रावास प्रबंध समिति, तारानगर",
     "description": "Churu",
     "imgSrc": '/assets/hostel/churu/taranagar-churu.jpg',  //missing
-    "data": '/assets/hostel/churu/taranagar-churu.pdf',  
-    "href": "taranagar-churu",
+    "data": '/assets/hostel/churu/churu-taranagar-churu.pdf',  
+    "href": "churu-taranagar-churu.pdf",
     "status":  "working"
   },
   {
@@ -479,7 +471,7 @@ const projectsData = {
     "description": "Churu",
     "imgSrc": '/assets/hostel/churu/ratangarh-boys-churu.jpg',  //missing
     "data": '/assets/hostel/churu/ratangarh-boys-churu.pdf',   //missing
-    "href": "ratangarh-boys-churu",
+    "href": "ratangarh-boys-churu.pdf",
     "status":  "working"
   },
   {
@@ -488,7 +480,7 @@ const projectsData = {
     "description": "Churu",
     "imgSrc": '/assets/hostel/churu/sujangarh-boys-churu.jpg',  //missing
     "data": '/assets/hostel/churu/sujangarh-boys-churu.pdf',   //missing
-    "href": "sujangarh-boys-churu",
+    "href": "sujangarh-boys-churu.pdf",
     "status":  "working"
   },
   {
@@ -496,8 +488,8 @@ const projectsData = {
     "title": "विद्यार्थी आश्रम, राजगढ़",
     "description": "Churu",
     "imgSrc": '/assets/hostel/churu/rajgarh-churu.jpg',  //missing
-    "data": '/assets/hostel/churu/rajgarh-churu.pdf',  
-    "href": "rajgarh-churu",
+    "data": '/assets/hostel/churu/churu-rajgarh-churu.pdf',  
+    "href": "churu-rajgarh-churu.pdf",
     "status":  "working"
   },
   {
@@ -506,7 +498,7 @@ const projectsData = {
     "description": "Churu",
     "imgSrc": '/assets/hostel/churu/sardarshahar-boys-churu.jpg',  //missing
     "data": '/assets/hostel/churu/sardarshahar-boys-churu.pdf',   //missing
-    "href": "sardarshahar-boys-churu",
+    "href": "sardarshahar-boys-churu.pdf",
     "status":  "working"
   },
   {
@@ -515,7 +507,7 @@ const projectsData = {
     "description": "Churu",
     "imgSrc": '/assets/hostel/churu/sardarshahar-girls-churu.jpg',  //missing
     "data": '/assets/hostel/churu/sardarshahar-girls-churu.pdf',   //missing
-    "href": "sardarshahar-girls-churu",
+    "href": "sardarshahar-girls-churu.pdf",
     "status":  "working"
   }
 ],
@@ -526,7 +518,7 @@ const projectsData = {
     "description": "Hanumangarh",
     "imgSrc": '/assets/hostel/hanumangarh/jat-girls-hanumangarh.jpg',  //missing
     "data": '/assets/hostel/hanumangarh/jat-girls-hanumangarh.pdf',   //missing
-    "href": "jat-girls-hanumangarh",
+    "href": "jat-girls-hanumangarh.pdf",
     "status":  "working"
   },
   {
@@ -535,7 +527,7 @@ const projectsData = {
     "description": "Hanumangarh",
     "imgSrc": '/assets/hostel/hanumangarh/ravatsar-hanumangarh.jpg',  //missing
     "data": '/assets/hostel/hanumangarh/ravatsar-hanumangarh.pdf',   //missing
-    "href": "ravatsar-hanumangarh",
+    "href": "ravatsar-hanumangarh.pdf",
     "status":  "working"
   }
 ],
@@ -546,7 +538,7 @@ const projectsData = {
     "description": "Jaisalmer",
     "imgSrc": '/assets/hostel/jaisalmer/mahadev-jaisalmer.jpg',  //missing
     "data": '/assets/hostel/jaisalmer/mahadev-jaisalmer.pdf',   //missing
-    "href": "mahadev-jaisalmer",
+    "href": "mahadev-jaisalmer.pdf",
     "status":  "working"
   },
   {
@@ -555,7 +547,7 @@ const projectsData = {
     "description": "Jaisalmer",
     "imgSrc": '/assets/hostel/jaisalmer/bhaniayana-jaisalmer.jpg',  //missing
     "data": '/assets/hostel/jaisalmer/bhaniayana-jaisalmer.pdf',   //missing
-    "href": "bhaniayana-jaisalmer",
+    "href": "bhaniayana-jaisalmer.pdf",
     "status":  "working"
   },
   {
@@ -564,7 +556,7 @@ const projectsData = {
     "description": "Jaisalmer",
     "imgSrc": '/assets/hostel/jaisalmer/girls-jaisalmer.jpg',  //missing
     "data": '/assets/hostel/jaisalmer/girls-jaisalmer.pdf',   //missing
-    "href": "girls-jaisalmer",
+    "href": "girls-jaisalmer.pdf",
   }
 ],
 "jaipur": [
@@ -574,7 +566,7 @@ const projectsData = {
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/jaipur/sawai-jawahar-jat-hostel-jaipur.jpg',  //missing
     "data": '/assets/hostel/jaipur/sawai-jawahar-jat-hostel-jaipur.pdf',   //missing
-    "href": "sawai-jawahar-jat-hostel-jaipur",
+    "href": "sawai-jawahar-jat-hostel-jaipur.pdf",
     "status":  "working"
   },
   {
@@ -583,7 +575,7 @@ const projectsData = {
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/jaipur/swadhin-jat-jaipur.jpg',  //missing
     "data": '/assets/hostel/jaipur/swadhin-jat-jaipur.pdf',   //missing
-    "href": "swadhin-jat-jaipur",
+    "href": "swadhin-jat-jaipur.pdf",
     "status":  "working"
   },
   {
@@ -592,7 +584,7 @@ const projectsData = {
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/jaipur/rajasthan-kisaan-jaipur.jpg',  //missing
     "data": '/assets/hostel/jaipur/rajasthan-kisaan-jaipur.pdf',   //missing
-    "href": "rajasthan-kisaan-jaipur",
+    "href": "rajasthan-kisaan-jaipur.pdf",
     "status":  "working"
   },
   {
@@ -601,7 +593,7 @@ const projectsData = {
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/jaipur/murlipura-jaipur.jpg',  //missing
     "data": '/assets/hostel/jaipur/murlipura-jaipur.pdf',   //missing
-    "href": "murlipura-jaipur",
+    "href": "murlipura-jaipur.pdf",
     "status":  "working"
   },
   {
@@ -610,7 +602,7 @@ const projectsData = {
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/jaipur/kotputli-jaipur.jpg',  //missing
     "data": '/assets/hostel/jaipur/kotputli-jaipur.pdf',   //missing
-    "href": "kotputli-jaipur",
+    "href": "kotputli-jaipur.pdf",
     "status":  "working"
   },
   {
@@ -619,7 +611,7 @@ const projectsData = {
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/jaipur/chaksu-jaipur.jpg',  //missing
     "data": '/assets/hostel/jaipur/chaksu-jaipur.pdf',   //missing
-    "href": "chaksu-jaipur",
+    "href": "chaksu-jaipur.pdf",
     "status":  "working"
   },
   {
@@ -628,7 +620,7 @@ const projectsData = {
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/jaipur/fulera-jaipur.jpg',  //missing
     "data": '/assets/hostel/jaipur/fulera-jaipur.pdf',   //missing
-    "href": "fulera-jaipur",
+    "href": "fulera-jaipur.pdf",
     "status":  "working"
   },
   {
@@ -637,7 +629,7 @@ const projectsData = {
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/jaipur/dudhu-jaipur.jpg',  //missing
     "data": '/assets/hostel/jaipur/dudhu-jaipur.pdf',   //missing
-    "href": "dudhu-jaipur",
+    "href": "dudhu-jaipur.pdf",
     "status":  "working"
   },
   {
@@ -646,7 +638,7 @@ const projectsData = {
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/jaipur/fagi-jaipur.jpg',  //missing
     "data": '/assets/hostel/jaipur/fagi-jaipur.pdf',   //missing
-    "href": "fagi-jaipur",
+    "href": "fagi-jaipur.pdf",
     "status":  "working"
   }
 ],
@@ -656,8 +648,8 @@ const projectsData = {
     "title": "श्री बलदेव राम मिर्धा जाट समाज सेवा संस्थान, सांचौर",
     "description": "Jalore",
     "imgSrc": '/assets/hostel/jalore/sanchore-jalore.jpg',  //missing
-    "data": '/assets/hostel/jalore/sanchore-jalore.pdf', 
-    "href": "sanchore-jalore",
+    "data": '/assets/hostel/jalore/jalore-sanchore-jalore.pdf', 
+    "href": "jalore-sanchore-jalore.pdf",
     "status":  "working"
   },
   {
@@ -666,7 +658,7 @@ const projectsData = {
     "description": "Jalore",
     "imgSrc": '/assets/hostel/jalore/bhinmal-jalore.jpg',  //missing
     "data": '/assets/hostel/jaijaloresalmer/bhinmal-jalore.pdf', //missing
-    "href": "bhinmal-jalore",
+    "href": "bhinmal-jalore.pdf",
     "status":  "working"
   }
 ],
@@ -677,7 +669,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/kaga-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/kaga-jodhpur.pdf',  //missing
-    "href": "kaga-jodhpur",
+    "href": "kaga-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -686,7 +678,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/paota-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/paota-jodhpur.pdf', //missing
-    "href": "paota-jodhpur",
+    "href": "paota-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -695,7 +687,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/pipar-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/pipar-jodhpur.pdf', //missing
-    "href": "pipar-jodhpur",
+    "href": "pipar-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -704,7 +696,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/zinda-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/zinda-jodhpur.pdf', //missing
-    "href": "zinda-jodhpur",
+    "href": "zinda-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -713,7 +705,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/baori-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/baori-jodhpur.pdf', //missing
-    "href": "baori-jodhpur",
+    "href": "baori-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -722,7 +714,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/bilara-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/bilara-jodhpur.pdf', //missing
-    "href": "bilara-jodhpur",
+    "href": "bilara-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -731,7 +723,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/osiya-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/osiya-jodhpur.pdf', //missing
-    "href": "osiya-jodhpur",
+    "href": "osiya-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -740,7 +732,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/pipar-girls-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/pipar-girls-jodhpur.pdf', //missing
-    "href": "pipar-girls-jodhpur",
+    "href": "pipar-girls-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -749,7 +741,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/kisan-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/kisan-jodhpur.pdf', //missing
-    "href": "kisan-jodhpur",
+    "href": "kisan-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -758,7 +750,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/lohavat-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/lohavat-jodhpur.pdf', //missing
-    "href": "lohavat-jodhpur",
+    "href": "lohavat-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -767,7 +759,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/teja-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/teja-jodhpur.pdf', //missing
-    "href": "teja-jodhpur",
+    "href": "teja-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -776,7 +768,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/bhopalgarh-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/bhopalgarh-jodhpur.pdf', //missing
-    "href": "bhopalgarh-jodhpur",
+    "href": "bhopalgarh-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -785,7 +777,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/karma-bai-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/karma-bai-jodhpur.pdf', //missing
-    "href": "karma-bai-jodhpur",
+    "href": "karma-bai-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -794,7 +786,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/tinwari-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/tinwari-jodhpur.pdf', //missing
-    "href": "tinwari-jodhpur",
+    "href": "tinwari-jodhpur.pdf",
     "status":  "working"
   },
   {
@@ -803,7 +795,7 @@ const projectsData = {
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/shergarh-jodhpur.jpg',  //missing
     "data": '/assets/hostel/jodhpur/shergarh-jodhpur.pdf', //missing
-    "href": "shergarh-jodhpur",
+    "href": "shergarh-jodhpur.pdf",
     "status":  "working"
   }
 ],
@@ -814,7 +806,7 @@ const projectsData = {
     "description": "Kota",
     "imgSrc": '/assets/hostel/kota/kota.jpg',  //missing
     "data": '/assets/hostel/kota/kota.pdf', //missing
-    "href": "kota",
+    "href": "kota.pdf",
     "status":  "working"
   }
 ],
@@ -825,7 +817,7 @@ const projectsData = {
     "description": "Bundi",
     "imgSrc": '/assets/hostel/bundi/bundi.jpg',  //missing
     "data": '/assets/hostel/bundi/bundi.pdf', //missing
-    "href": "bundi",
+    "href": "bundi.pdf",
     "status":  "working"
   }
 ],
@@ -836,7 +828,7 @@ const projectsData = {
     "description": "Udaipur",
     "imgSrc": '/assets/hostel/udaipur/udaipur.jpg',  //missing
     "data": '/assets/hostel/udaipur/udaipur.pdf', //missing
-    "href": "udaipur",
+    "href": "udaipur.pdf",
     "status":  "working"
   }
 ],
@@ -847,7 +839,7 @@ const projectsData = {
     "description": "Tonk",
     "imgSrc": '/assets/hostel/tonk/tonk.jpg',  //missing
     "data": '/assets/hostel/tonk/tonk.pdf', //missing
-    "href": "tonk",
+    "href": "tonk.pdf",
     "status":  "working"
   },
   {
@@ -856,7 +848,7 @@ const projectsData = {
     "description": "Tonk",
     "imgSrc": '/assets/hostel/tonk/malpura-tonk.jpg',  //missing
     "data": '/assets/hostel/tonk/malpura-tonk.pdf', //missing
-    "href": "malpura-tonk",
+    "href": "malpura-tonk.pdf",
     "status":  "working"
   },
   {
@@ -865,7 +857,7 @@ const projectsData = {
     "description": "Tonk",
     "imgSrc": '/assets/hostel/tonk/todaraisingh-tonk.jpg',  //missing
     "data": '/assets/hostel/tonk/todaraisingh-tonk.pdf', //missing
-    "href": "todaraisingh-tonk",
+    "href": "todaraisingh-tonk.pdf",
     "status":  "working"
   }
 ],
@@ -876,7 +868,7 @@ const projectsData = {
     "description": "Sawaimadhopur",
     "imgSrc": '/assets/hostel/sawaimadhopur/sawaimadhopur.jpg',  //missing
     "data": '/assets/hostel/sawaimadhopur/sawaimadhopur.pdf', //missing
-    "href": "sawaimadhopur",
+    "href": "sawaimadhopur.pdf",
     "status":  "working"
   }
 ],
@@ -887,7 +879,7 @@ const projectsData = {
     "description": "Ganaganagar",
     "imgSrc": '/assets/hostel/ganaganagar/ganaganagar.jpg',  //missing
     "data": '/assets/hostel/ganaganagar/ganaganagar.pdf', //missing
-    "href": "ganaganagar",
+    "href": "ganaganagar.pdf",
     "status":  "working"
   }
 ],
@@ -898,7 +890,7 @@ const projectsData = {
     "description": "Sikar",
     "imgSrc": '/assets/hostel/sikar/neem-ka-thana-sikar.jpg',  //missing
     "data": '/assets/hostel/sikar/neem-ka-thana-sikar.pdf', //missing
-    "href": "neem-ka-thana-sikar",
+    "href": "neem-ka-thana-sikar.pdf",
     "status":  "working"
   },
   {
@@ -907,7 +899,7 @@ const projectsData = {
     "description": "Sikar",
     "imgSrc": '/assets/hostel/sikar/jat-boarding-sikar.jpg',  //missing
     "data": '/assets/hostel/sikar/jat-boarding-sikar.pdf', //missing
-    "href": "jat-boarding-sikar",
+    "href": "jat-boarding-sikar.pdf",
     "status":  "working"
   }
 ],
@@ -918,7 +910,7 @@ const projectsData = {
     "description": "Pali",
     "imgSrc": '/assets/hostel/pali/tejaji-jat-pali.jpg',  //missing
     "data": '/assets/hostel/pali/tejaji-jat-pali.pdf', //missing
-    "href": "tejaji-jat-pali",
+    "href": "tejaji-jat-pali.pdf",
     "status":  "working"
   },
   {
@@ -927,7 +919,7 @@ const projectsData = {
     "description": "Pali",
     "imgSrc": '/assets/hostel/pali/jaitaran-pali.jpg',  //missing
     "data": '/assets/hostel/pali/jaitaran-pali.pdf', //missing
-    "href": "jaitaran-pali",
+    "href": "jaitaran-pali.pdf",
     "status":  "working"
   },
   {
@@ -936,7 +928,7 @@ const projectsData = {
     "description": "Pali",
     "imgSrc": '/assets/hostel/pali/sojat-pali.jpg',  //missing
     "data": '/assets/hostel/pali/sojat-pali.pdf', //missing
-    "href": "sojat-pali",
+    "href": "sojat-pali.pdf",
     "status":  "working"
   },
   {
@@ -945,7 +937,7 @@ const projectsData = {
     "description": "Pali",
     "imgSrc": '/assets/hostel/pali/sadri-pali.jpg',  //missing
     "data": '/assets/hostel/pali/sadri-pali.pdf', //missing
-    "href": "pali",
+    "href": "pali.pdf",
     "status":  "working"
   },
   {
@@ -954,7 +946,7 @@ const projectsData = {
     "description": "Pali",
     "imgSrc": '/assets/hostel/pali/vikas-samiti-pali.jpg',  //missing
     "data": '/assets/hostel/pali/vikas-samiti-pali.pdf', //missing
-    "href": "vikas-samiti-pali",
+    "href": "vikas-samiti-pali.pdf",
     "status":  "working"
   }
 ],
@@ -965,7 +957,7 @@ const projectsData = {
     "description": "Karouli",
     "imgSrc": '/assets/hostel/karouli/karouli.jpg',  //missing
     "data": '/assets/hostel/karouli/karouli.pdf', //missing
-    "href": "karouli",
+    "href": "karouli.pdf",
     "status":  "working"
   }
 ],
@@ -976,7 +968,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/nathu-ram-mirdha-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/nathu-ram-mirdha-nagore.pdf', //missing
-    "href": "nathu-ram-mirdha-nagore",
+    "href": "nathu-ram-mirdha-nagore.pdf",
     "status":  "working"
   },
   {
@@ -985,7 +977,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/degana-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/degana-nagore.pdf', //missing
-    "href": "degana-nagore",
+    "href": "degana-nagore.pdf",
     "status":  "working"
   },
   {
@@ -994,7 +986,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/merta-city-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/merta-city-nagore.pdf', //missing
-    "href": "merta-city-nagore",
+    "href": "merta-city-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1003,7 +995,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/didwana-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/didwana-nagore.pdf', //missing
-    "href": "didwana-nagore",
+    "href": "didwana-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1012,7 +1004,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/parbatsar-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/parbatsar-nagore.pdf', //missing
-    "href": "parbatsar-nagore",
+    "href": "parbatsar-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1021,7 +1013,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/kisan-hostel-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/kisan-hostel-nagore.pdf', //missing
-    "href": "kisan-hostel-nagore",
+    "href": "kisan-hostel-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1030,7 +1022,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/kuchera-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/kuchera-nagore.pdf', //missing
-    "href": "kuchera-nagore",
+    "href": "kuchera-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1039,7 +1031,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/nawa-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/nawa-nagore.pdf', //missing
-    "href": "nawa-nagore",
+    "href": "nawa-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1048,7 +1040,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/ladnu-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/ladnu-nagore.pdf', //missing
-    "href": "ladnu-nagore",
+    "href": "ladnu-nagor.pdfe",
     "status":  "working"
   },
    {
@@ -1057,7 +1049,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/khimsar-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/khimsar-nagore.pdf', //missing
-    "href": "khimsar-nagore",
+    "href": "khimsar-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1066,7 +1058,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/koliya-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/koliya-nagore.pdf', //missing
-    "href": "koliya-nagore",
+    "href": "koliya-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1075,7 +1067,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/nawa-girls-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/nawa-girls-nagore.pdf', //missing
-    "href": "nawa-girls-nagore",
+    "href": "nawa-girls-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1084,7 +1076,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/kuchaman-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/kuchaman-nagore.pdf', //missing
-    "href": "kuchaman-nagore",
+    "href": "kuchaman-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1093,7 +1085,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/riya-bari-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/riya-bari-nagore.pdf', //missing
-    "href": "riya-bari-nagore",
+    "href": "riya-bari-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1102,7 +1094,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/kisan-jat-parbatsar-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/kisan-jat-parbatsar-nagore-nagore.pdf', //missing
-    "href": "kuchaman-nagore",
+    "href": "kuchaman-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1111,7 +1103,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/toshina-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/toshina-nagore.pdf', //missing
-    "href": "toshina-nagore",
+    "href": "toshina-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1120,7 +1112,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/gramothan-ladnu-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/gramothan-ladnu-nagore.pdf', //missing
-    "href": "gramothan-ladnu-nagore",
+    "href": "gramothan-ladnu-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1129,7 +1121,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/kuchagramothan-didwana-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/kuchagramothan-didwana-nagore.pdf', //missing
-    "href": "kuchagramothan-didwana-nagore",
+    "href": "kuchagramothan-didwana-nagore.pdf",
     "status":  "working"
   },
   {
@@ -1138,7 +1130,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/mudna-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/mudna-nagore.pdf', //missing
-    "href": "mudna-nagore",
+    "href": "mudna-nagore.pdf",
     "status":  "working"
   }
 ],
