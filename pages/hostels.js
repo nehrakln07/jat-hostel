@@ -25,7 +25,7 @@ export default function Projects() {
   return (  
     <Layout>
       <SeoHead title='LaslesVPN Landing Page' />
-      <div className="max-w-screen-xl mt-24 px-8 xl:px-16 mx-auto">
+      <div className="max-w-screen-xl min-h-screen mt-24 px-8 xl:px-16 mx-auto">
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1 className="text-green-500 text-3xl font-bold text-center sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
             Hostels

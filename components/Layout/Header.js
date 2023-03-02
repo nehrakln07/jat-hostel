@@ -5,8 +5,22 @@ import { Link as LinkScroll } from "react-scroll";
 import ButtonOutline from "../misc/ButtonOutline.";
 import Image from "next/image";
 
+const MENU_OPTIONS =[{
+  id: 1,
+  lable: "Courses",
+  url: "courses"
+},{
+  id: 2,
+  lable: "Careers",
+  url: "careers"
+},{
+  id: 3,
+  lable: "Hostels",
+  url: "hostels"
+}]
+
 const Header = () => {
-  const [activeLink, setActiveLink] = useState(null);
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [scrollActive, setScrollActive] = useState(false);
   useEffect(() => {
     window.addEventListener("scroll", () => {
@@ -21,77 +35,80 @@ const Header = () => {
           (scrollActive ? " shadow-md pt-0" : " pt-4")
         }
       >
-        <nav className="max-w-screen-xl px-6 sm:px-8 lg:px-16 mx-auto grid grid-flow-col py-3 sm:py-4">
-          <div className="col-start-1 col-end-4 flex items-center">
-            <Link href="/">
-              <Image
-                src="/assets/rjh_logo.png"
-                width={160}
-                height={40}
-                alt="RJH"
-              />
-            </Link>
-          </div>
-          <ul className="hidden lg:flex justify-end text-black-500 items-center">
-            <LinkScroll
-              activeClass="active"
-              to="about"
-              spy={true}
-              smooth={true}
-              duration={1000}
-              onSetActive={() => {
-                setActiveLink("about");
-              }}
-              className={
-                "px-4 py-2 mx-2 cursor-pointer animation-hover inline-block relative" +
-                (activeLink === "about"
-                  ? " text-green-500 animation-active "
-                  : " text-black-500 hover:text-green-500 a")
-              }
-            >
-              About
-            </LinkScroll>
-            <LinkScroll
-              activeClass="active"
-              to="feature"
-              spy={true}
-              smooth={true}
-              duration={1000}
-              onSetActive={() => {
-                setActiveLink("feature");
-              }}
-              className={
-                "px-4 py-2 mx-2 cursor-pointer animation-hover inline-block relative" +
-                (activeLink === "feature"
-                  ? " text-green-500 animation-active "
-                  : " text-black-500 hover:text-green-500 ")
-              }
-            >
-              Aim
-            </LinkScroll>
-            <LinkScroll
-              activeClass="active"
-              to="testimoni"
-              spy={true}
-              smooth={true}
-              duration={1000}
-              onSetActive={() => {
-                setActiveLink("testimoni");
-              }}
-              className={
-                "px-4 py-2 mx-2 cursor-pointer animation-hover inline-block relative" +
-                (activeLink === "testimoni"
-                  ? " text-green-500 animation-active "
-                  : " text-black-500 hover:text-green-500 ")
-              }
-            >
-              People Behind Us
-            </LinkScroll>
-            <ButtonOutline>
-                <Link href="/hostels">View All Hostels</Link>
-            </ButtonOutline>
-          </ul>
-        </nav>
+        <div  className="relative bg-white">
+          {
+            !mobileMenuOpen ?
+            <div className="max-w-7xl mx-auto px-4 sm:px-6">
+              <div className="flex justify-between items-center border-b-2 border-gray-100 py-6">
+                <div className="lg:w-0 lg:flex-1">
+                  <Link href="/">
+                      <Image
+                        src="/assets/rjh_logo.png"
+                        width={160}
+                        height={40}
+                        alt="RJH"
+                      />
+                    </Link>
+                </div>
+                <div className="-mr-2 -my-2 md:hidden">
+                  <button onClick={()=>{setMobileMenuOpen(true)}} type="button" className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+                    <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                      </svg>
+                  </button>
+                </div>
+                <nav className="hidden md:flex space-x-10">
+                  { 
+                    MENU_OPTIONS.map((menu)=>{
+                      return(
+                        <Link key={menu.id} className="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150" href={menu.url}>{menu.lable}</Link>
+                      )
+                    })
+                  }
+                </nav>
+              </div>
+            </div>
+            :
+            <div lassName="absolute top-0 inset-x-0 p-2 transition transform origin-top-right md">
+              <div className="rounded-lg shadow-lg">
+                <div className="rounded-lg shadow-xs bg-white ">
+                <div className="flex items-center p-6 justify-between">
+                      <div>
+                      <Link href="/">
+                      <Image
+                        src="/assets/rjh_logo.png"
+                        width={160}
+                        height={40}
+                        alt="RJH"
+                      />
+                    </Link>
+                      </div>
+                      <div className="-mr-2">
+                        <button  onClick={()=>{setMobileMenuOpen(false)}} type="button" className="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
+                          <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                            </svg>
+                        </button>
+                      </div>
+                    </div>
+                  <div className="py-6 px-5 space-y-6">
+                    <ul className="w-full flex flex-wrap">
+                    { 
+                      MENU_OPTIONS.map((menu)=>{
+                        return(
+                          <li className="w-full p-2">
+                            <Link key={menu.id} className="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150" href={menu.url}>{menu.lable}</Link>
+                          </li>
+                        )
+                      })
+                    }
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          }
+        </div>
       </header>  
     </>
   );

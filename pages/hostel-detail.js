@@ -27,7 +27,7 @@ export default function HostelDetails() {
     return (
         <Layout>
             <SeoHead title='Hostel Detail' />
-            <div className="max-w-screen-xl mt-24 px-8 xl:px-16 mx-auto">
+            <div className="max-w-screen-xl min-h-screen mt-24 px-8 xl:px-16 mx-auto">
                 <Worker workerUrl="https://unpkg.com/pdfjs-dist@2.15.349/build/pdf.worker.js">
                     <div
                         style={{
