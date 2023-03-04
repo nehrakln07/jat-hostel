@@ -19,8 +19,8 @@ const MENU_OPTIONS =[{
   url: "careers"
 },{
   id: 4,
-  lable: "Career counselor",
-  url: "career-counselor"
+  lable: "Career counselors",
+  url: "career-counselors"
 },{
   id: 5,
   lable: "About Us",
