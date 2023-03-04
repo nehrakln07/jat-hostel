@@ -291,32 +291,6 @@ const projectsData = {
       "imgSrc": '/assets/hostel/bhimda.jpg',  //missing
       "data": '/assets/hostel/barmer-bhimda.pdf', 
       "href": "barmer-bhimda",
-    },
-    {
-      "id": 22,
-      "title": "श्री जाट चेरिटेबल ट्रस्ट, बाड़मेर",
-      "description": "Barmer",
-      "imgSrc": '/assets/hostel/jat-charitable-barmer.jpg',  //missing
-      "data": '/assets/hostel/jat-charitable-barmer.pdf', //missing
-      // "href": "jat-charitable-barmer",
-      "href": "default",
-    },
-    {
-      "id": 23,
-      "title": "युवा चोपाल ट्रस्ट, बाडमेर",
-      "description": "Barmer",
-      "imgSrc": '/assets/hostel/yuva-choupal-barmer.jpg',  //missing
-      "data": '/assets/hostel/yuva-choupal-barmer.pdf', //missing
-      "href": "yuva-choupal-barmer",
-    },
-    {
-      "id": 24,
-      "title": "सेठ रामलाल सऊ चौथी देवी ट्रस्ट, बाडमेर",
-      "description": "Barmer",
-      "imgSrc": '/assets/hostel/seth-ramlal-barmer.jpg',  //missing
-      "data": '/assets/hostel/seth-ramlal-barmer.pdf', //missing
-      // "href": "seth-ramlal-barmer",
-      "href": "default",
     }
   ]
 ,
@@ -1141,24 +1115,6 @@ const projectsData = {
     "imgSrc": '/assets/hostel/nagore-gramothan-ladnu-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore-gramothan-ladnu-nagore.pdf', //missing
     "href": "nagore-gramothan-ladnu-nagore",
-    "status":  "working"
-  },
-  {
-    "id": 18,
-    "title": "ग्रामोत्थान विद्या पीठ संस्थान, डीडवाना",
-    "description": "Nagore",
-    "imgSrc": '/assets/hostel/kuchagramothan-didwana-nagore.jpg',  //missing
-    "data": '/assets/hostel/kuchagramothan-didwana-nagore.pdf', //missing
-    "href": "kuchagramothan-didwana-nagore",
-    "status":  "working"
-  },
-  {
-    "id": 19,
-    "title": "वीर तेजा महिला शिक्षण शोध संस्थान तेजस्थली मारवाड़ मूडना",
-    "description": "Nagore",
-    "imgSrc": '/assets/hostel/mudna-nagore.jpg',  //missing
-    "data": '/assets/hostel/mudna-nagore.pdf', //missing
-    "href": "mudna-nagore",
     "status":  "working"
   }
 ],
