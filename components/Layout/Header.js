@@ -11,22 +11,26 @@ const MENU_OPTIONS =[{
   url: "hostels"
 },{
   id: 2,
+  lable: "Trusts",
+  url: "trusts"
+},{
+  id: 3,
   lable: "Courses",
   url: "courses"
 },{
-  id: 3,
+  id: 4,
   lable: "Careers",
   url: "careers"
 },{
-  id: 4,
+  id: 5,
   lable: "Career counselors",
   url: "career-counselors"
 },{
-  id: 5,
+  id: 6,
   lable: "About Us",
   url: "about-us"
 },{
-  id: 6,
+  id: 7,
   lable: "Feedback",
   url: "https://forms.gle/yC35ucEytdzRmMM38"
 }]
