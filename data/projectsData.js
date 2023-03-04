@@ -359,8 +359,8 @@ const projectsData = {
       "title": "कन्या छात्रावास, भीलवाड़ा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/girls-bhilwara.jpg',  //missing
-      "data": '/assets/hostel/bhilwara-girls-bhilwara.pdf',   //missing
-      "href": "bhilwara-girls-bhilwara",
+      // "data": '/assets/hostel/bhilwara-girls-bhilwara.pdf',   //missing
+      // "href": "bhilwara-girls-bhilwara",
       "status":  "working"
     }
   ],
