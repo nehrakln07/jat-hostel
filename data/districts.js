@@ -31,9 +31,6 @@ const DISTRICT = [
         name: "Chittorgarh",
         url: "chittorgarh",
     },
-
-
-
     {
         name: "Churu",
         url: "churu",
@@ -115,8 +112,8 @@ const DISTRICT = [
     },
 
     {
-        name: "SawaiMadhopur",
-        url: "sawaiMadhopur",
+        name: "sawaimadhopur",
+        url: "sawaimadhopur",
     },
     {
         name: "Sikar",
@@ -128,8 +125,8 @@ const DISTRICT = [
         url: "sirohi",
     },
     {
-        name: "Sri Ganganagar",
-        url: "sriganganagar",
+        name: "Sriganaganagar",
+        url: "sriganaganagar",
     },
 
 

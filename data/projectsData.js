@@ -932,7 +932,8 @@ const projectsData = {
     "description": "Pali",
     "imgSrc": '/assets/hostel/tejaji-jat-pali.jpg',  //missing
     "data": '/assets/hostel/tejaji-jat-pali.pdf', //missing
-    "href": "tejaji-jat-pali",
+    // "href": "tejaji-jat-pali",
+    "href": "default",
     "status":  "working"
   },
   {
@@ -959,7 +960,8 @@ const projectsData = {
     "description": "Pali",
     "imgSrc": '/assets/hostel/sadri-pali.jpg',  //missing
     "data": '/assets/hostel/sadri-pali.pdf', //missing
-    "href": "pali",
+    // "href": "pali",
+    "href": "default",
     "status":  "working"
   },
   {
@@ -968,7 +970,8 @@ const projectsData = {
     "description": "Pali",
     "imgSrc": '/assets/hostel//vikas-samiti-pali.jpg',  //missing
     "data": '/assets/hostel//vikas-samiti-pali.pdf', //missing
-    "href": "vikas-samiti-pali",
+    // "href": "vikas-samiti-pali",
+    "href": "default",
     "status":  "working"
   }
 ],
@@ -979,7 +982,8 @@ const projectsData = {
     "description": "Karouli",
     "imgSrc": '/assets/hostel/karouli.jpeg', 
     "data": '/assets/hostel/karouli.pdf', //missing
-    "href": "karouli",
+    // "href": "karouli",
+    "href": "default",
     "status":  "working"
   }
 ],
@@ -1062,7 +1066,7 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/ladnu-nagore.jpg',  //missing
     "data": '/assets/hostel/ladnu-nagore.pdf', //missing
-    "href": "ladnu-nagor.",
+    "href": "ladnu-nagor",
     "status":  "working"
   },
    {
@@ -1080,7 +1084,8 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore/koliya-nagore.jpg',  //missing
     "data": '/assets/hostel/nagore/koliya-nagore.pdf', //missing
-    "href": "koliya-nagore",
+    // "href": "koliya-nagore",
+    "href": "default",
     "status":  "working"
   },
   {
@@ -1089,7 +1094,8 @@ const projectsData = {
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nawa-girls-nagore.jpg',  //missing
     "data": '/assets/hostel/nawa-girls-nagore.pdf', //missing
-    "href": "nawa-girls-nagore",
+    // "href": "nawa-girls-nagore",
+    "href": "default",
     "status":  "working"
   },
   {
