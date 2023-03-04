@@ -60,7 +60,7 @@ export default function Projects() {
                           key={d.title}
                           title={d.title}
                           description={d.description}
-                          imgSrc={d.imgSrc}
+                         // imgSrc={d.imgSrc}
                           href={`hostel-detail?hostel=${d.href}`}
                         />
                       )
