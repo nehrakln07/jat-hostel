@@ -28,10 +28,6 @@ const DISTRICT = [
         url: "bundi",
     },
     {
-        name: "Barmer",
-        url: "barmer",
-    },
-    {
         name: "Chittorgarh",
         url: "chittorgarh",
     },

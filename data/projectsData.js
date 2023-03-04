@@ -264,7 +264,8 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/virendra-memorial-barmer.jpg',  //missing
       "data": '/assets/hostel/virendra-memorial-barmer.pdf',  //missing
-      "href": "virendra-memorial-barmer",
+      // "href": "virendra-memorial-barmer",
+      "href": "default",
       "status":  "under construction"
     },
     {
@@ -297,7 +298,8 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/jat-charitable-barmer.jpg',  //missing
       "data": '/assets/hostel/jat-charitable-barmer.pdf', //missing
-      "href": "jat-charitable-barmer",
+      // "href": "jat-charitable-barmer",
+      "href": "default",
     },
     {
       "id": 23,
@@ -313,7 +315,8 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/seth-ramlal-barmer.jpg',  //missing
       "data": '/assets/hostel/seth-ramlal-barmer.pdf', //missing
-      "href": "seth-ramlal-barmer",
+      // "href": "seth-ramlal-barmer",
+      "href": "default",
     }
   ]
 ,
@@ -351,7 +354,8 @@ const projectsData = {
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/gangapur-bhilwara.jpg',  //missing
       "data": '/assets/hostel/bhilwara-gangapur-bhilwara.pdf',   //missing
-      "href": "bhilwara-gangapur-bhilwara",
+      "href": "default",
+      // "href": "bhilwara-gangapur-bhilwara",
       "status":  "working"
     },
     {
@@ -359,8 +363,9 @@ const projectsData = {
       "title": "कन्या छात्रावास, भीलवाड़ा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/girls-bhilwara.jpg',  //missing
-      // "data": '/assets/hostel/bhilwara-girls-bhilwara.pdf',   //missing
+      "data": '/assets/hostel/bhilwara-girls-bhilwara.pdf',   //missing
       // "href": "bhilwara-girls-bhilwara",
+      "href": "default",
       "status":  "working"
     }
   ],
@@ -389,7 +394,8 @@ const projectsData = {
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner-lunkaransar-bikaner.jpeg', 
     "data": '/assets/hostel/lunkaransar-bikaner.pdf',  
-    "href": "lunkaransar-bikaner",
+    // "href": "lunkaransar-bikaner",
+    "href": "default",
     "status":  "working"
   },
   {
@@ -416,7 +422,8 @@ const projectsData = {
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner-girls-bikaner.jpg', 
     "data": '/assets/hostel/girls-bikaner.pdf',   //missing
-    "href": "girls-bikaner",
+    // "href": "girls-bikaner",
+    "href": "default",
   }
 ],
 "chittorgarh": [
@@ -817,7 +824,8 @@ const projectsData = {
     "description": "Bundi",
     "imgSrc": '/assets/hostel/bundi.jpg',  //missing
     "data": '/assets/hostel/bundi.pdf', //missing
-    "href": "bundi",
+    // "href": "bundi",
+    "href": "default",
     "status":  "working"
   }
 ],
