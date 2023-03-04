@@ -25,7 +25,7 @@ const CAREERS = [
     },
     {
         name: "RFS",
-        url: "/assets/career/ career-7-RFS.pdf", 
+        url: "/assets/career/career-7-RFS.pdf", 
     },
     {
         name: "INDIAN ARMY",
