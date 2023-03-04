@@ -35,8 +35,8 @@ const projectsData = {
       "title": "श्री वीर तेजा किसान छात्रावास, अजमेर",
       "description": "Ajmer",
       "imgSrc": '/assets/hostel/ajmer.jpg',  //missing
-      // "data": '/assets/hostel/ajmer.pdf', 
-      // "href": "ajmer",
+      "data": '/assets/hostel/ajmer.pdf', 
+      "href": "ajmer",
       "status":  "working"
     },
     {
