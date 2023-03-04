@@ -36,7 +36,7 @@ const projectsData = {
       "description": "Ajmer",
       "imgSrc": '/assets/hostel/ajmer.jpg',  //missing
       // "data": '/assets/hostel/ajmer.pdf', 
-      "href": "ajmer",
+      // "href": "ajmer",
       "status":  "working"
     },
     {
