@@ -229,9 +229,9 @@ const projectsData = {
       "id": 15,
       "title": "जाट समाज विकास एवं छात्रावास, गुढामालानी",
       "description": "Barmer",
-      "imgSrc": '/assets/hostel/gudamalani.jpg',  //missing
-      "data": '/assets/hostel/gudamalani.pdf',    //missing
-      "href": "gudamalani",
+      "imgSrc": '/assets/hostel/barmer-gudamalani.jpg',  //missing
+      "data": '/assets/hostel/barmer-gudamalani.pdf',    //missing
+      "href": "barmer-gudamalani",
     }
     ,
     {
@@ -240,7 +240,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/sheo.jpg',  //missing
       "data": '/assets/hostel/barmer-sheo.pdf',   
-      "href": "barmer-sheo.",
+      "href": "barmer-sheo",
     },
     {
       "id": 17,
