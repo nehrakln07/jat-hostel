@@ -19,10 +19,14 @@ const MENU_OPTIONS =[{
   url: "careers"
 },{
   id: 4,
+  lable: "Career counselor",
+  url: "career-counselor"
+},{
+  id: 5,
   lable: "About Us",
   url: "about-us"
 },{
-  id: 5,
+  id: 6,
   lable: "Feedback",
   url: "https://forms.gle/yC35ucEytdzRmMM38"
 }]

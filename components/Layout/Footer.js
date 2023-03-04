@@ -13,12 +13,18 @@ const MENU_OPTIONS =[{
   id: 2,
   lable: "Careers",
   url: "careers"
-},{
+},
+{
   id: 3,
+  lable: "Career counselor",
+  url: "career-counselor"
+}
+,{
+  id: 4,
   lable: "Hostels",
   url: "hostels"
 },{
-  id: 4,
+  id: 5,
   lable: "About Us",
   url: "about-us"
 }]
