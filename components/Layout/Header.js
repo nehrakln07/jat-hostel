@@ -17,6 +17,10 @@ const MENU_OPTIONS =[{
   id: 3,
   lable: "Hostels",
   url: "hostels"
+},{
+  id: 4,
+  lable: "About Us",
+  url: "about-us"
 }]
 
 const Header = () => {

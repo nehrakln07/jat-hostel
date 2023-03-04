@@ -2,7 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 const Card = ({ title, description, imgSrc, href }) => (
-  <div className="md p-4 md:w-1/2" style={{ maxWidth: '544px' }}>
+  <div className="md md:p-4 md:w-1/2" style={{ maxWidth: '544px' }}>
     <div
       className={`${
         imgSrc && 'h-full'
@@ -28,7 +28,7 @@ const Card = ({ title, description, imgSrc, href }) => (
             height={306}
           />
         ))}
-      <div className="p-6">
+      <div className="p-6 md:p-2">
         <h2 className="mb-3 text-2xl font-bold leading-8 tracking-tight">
           {href ? (
             <Link href={href} aria-label={`Link to ${title}`}>

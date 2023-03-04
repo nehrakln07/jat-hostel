@@ -62,6 +62,21 @@ li.check:before {
   @apply bg-green-500 rounded-l-full rounded-r-full w-12;
 }
 
+
+.rpv-core__text-layer{
+  display: none;
+  opacity: 0;
+}
+.rpv-core__text-layer-text{
+  display: none;
+  opacity: 0;
+}
+
+.rpv-core__viewer .core__inner-container .core__inner-pages .rpv-core__inner-page .rpv-core__text-layer .rpv-core__text-layer-text{
+  display: none;
+}
+
+
 /* purgecss end ignore */
 @tailwind utilities;
 /* purgecss start ignore */

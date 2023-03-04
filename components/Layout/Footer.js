@@ -1,13 +1,41 @@
 import React from "react";
+import Link from "next/link"
 import LogoVPN from "../../public/assets/Logo.svg";
 import Facebook from "../../public/assets/Icon/facebook.svg";
 import Twitter from "../../public/assets/Icon/twitter.svg";
 import Instagram from "../../public/assets/Icon/instagram.svg";
 import Image from "next/image";
-
+const MENU_OPTIONS =[{
+  id: 1,
+  lable: "Courses",
+  url: "courses"
+},{
+  id: 2,
+  lable: "Careers",
+  url: "careers"
+},{
+  id: 3,
+  lable: "Hostels",
+  url: "hostels"
+},{
+  id: 4,
+  lable: "About Us",
+  url: "about-us"
+}]
 const Footer = () => {
   return (
     <div className="pb-24">
+      <div className="w-full p-8 flex justify-between bg-green-100">
+        { 
+          MENU_OPTIONS.map((menu)=>{
+            return(
+              <div className="w-full md:w-1/5 text-center">
+                <Link key={menu.id} className="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150" href={menu.url}>{menu.lable}</Link>
+              </div>
+            )
+          })
+        }
+      </div>
       <div className="w-full p-8 flex justify-center">
         <div className="w-full text-center ">
           <Image

@@ -52,7 +52,7 @@ export default function Projects() {
                 <h2 className="w-full text-3xl font-bold">
                   {`Hostels in ${selectedDistrict}`}
                 </h2>
-                <div className="m-4 flex flex-wrap">
+                <div className="md:m-4 flex flex-wrap">
                   { data && data.length &&
                     data.map((d) => {
                       return (
