@@ -121,7 +121,7 @@ const projectsData = {
       "id": 3,
       "title": "श्री किसान बालिका छात्रावास, चौहटन",
       "description": "Barmer",
-    
+      "imgSrc": '/assets/hostel/kisan-girls-chohtan-barmer.jpg',
       "data": '/assets/hostel/kisan-balika-barmer.pdf',  //missing
       "href": "kisan-girls-chohtan-barmer",
       "status":  "working"
