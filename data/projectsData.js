@@ -82,7 +82,7 @@ const projectsData = {
       "id": 3,
       "title": "जाट छात्रावास, अलवर",
       "description": "Alwar",
-      "imgSrc": '/assets/hostel/jat-hostel-boys-alwar.jpg',
+      "imgSrc": '/assets/hostel/alwar-jat-hostel-boys-alwar.jpeg',
       "data": '/assets/hostel/alwar-jat-hostel-boys-alwar.pdf',  
       "href": "alwar-jat-hostel-boys-alwar",
       "status":  "working"
@@ -92,8 +92,8 @@ const projectsData = {
       "title": "बालिका जाट छात्रावास, अलवर",
       "description": "Alwar",
       "imgSrc": '/assets/hostel/balika-alwar.jpg',  //missing
-      "data": '/assets/hostel/balika-alwar.pdf',  //missing
-      "href": "balika-alwar",
+      "data": '/assets/hostel/alwar-balika-alwar.pdf',  //missing
+      "href": "alwar-balika-alwar",
       "status":  "working"
     }
   ],
@@ -105,7 +105,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer-kisan-kanya-barmer.jpeg',  
       "data": '/assets/hostel/barmer-kisan-kanya-barmer.pdf',  //missing
-      "href": "barmer-kisan-girls-barmer",
+      "href": "barmer-kisan-kanya-barmer",
       "status":  "working"
     },
     {
@@ -114,15 +114,15 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer-baldev-ram-chohtan-barmer.jpeg', 
       "data": '/assets/hostel/barmer-baldev-ram-chohtan-barmer.pdf',  //missing
-      "href": "barmer-baldev-ram-mirdha-chohtan-barmer",
+      "href": "barmer-baldev-ram-chohtan-barmer",
       "status":  "working"
     },
     {
       "id": 3,
       "title": "श्री किसान बालिका छात्रावास, चौहटन",
       "description": "Barmer",
-      "imgSrc": '/assets/hostel/kisan-girls-chohtan-barmer.jpg',  //missing
-      "data": '/assets/hostel/Baldev-ram-chohtan-barmer.pdf',  //missing
+      "imgSrc": '/assets/hostel/kisan-girls-chohtan-barmer.jpg',
+      "data": '/assets/hostel/kisan-balika-barmer.pdf',  //missing
       "href": "kisan-girls-chohtan-barmer",
       "status":  "working"
     },
@@ -131,8 +131,8 @@ const projectsData = {
       "title": "वीर तेजाजी बालक छात्रावास, बालोतरा",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/barmer-tejaji-boys-balotara-barmer.jpeg', 
-      "data": '/assets/hostel/tejaji-boys-balotara-barmer.pdf',  //missing
-      "href": "tejaji-boys-balotara-barmer",
+      "data": '/assets/hostel/barmer-tejaji-boys-balotara-barmer.pdf',  //missing
+      "href": "barmer-tejaji-boys-balotara-barmer",
       "status":  "working"
     },
     {
@@ -149,8 +149,8 @@ const projectsData = {
       "title": "किसान छात्रावास संस्थान, धोरीमन्ना",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/kisan-hostel-dhorimanna-barmer.jpg',  //missing
-      "data": '/assets/hostel/kisan-hostel-dhorimanna-barmer',   //missing
-      "href": "kisan-hostel-dhorimanna-barmer.pdf",
+      "data": '/assets/hostel/kisan-hostel-dhorimanna-barmer.pdf',   //missing
+      "href": "kisan-hostel-dhorimanna-barmer",
       "status":  "working"
     },
     {
@@ -212,26 +212,26 @@ const projectsData = {
       "title": "श्री जगदीश सिंह मेमोरियल छात्रावास, बायतु",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/baytu.jpg',  //missing
-      "data": '/assets/hostel/baytu.pdf',    //missing
-      "href": "baytu",
+      "data": '/assets/hostel/barmer-baytu.pdf',    //missing
+      "href": "barmer-baytu",
       "status":  "under-development"
     },
     {
       "id": 14,
       "title": "जाट समाज विकास एवं छात्रावास , गुढामालानी",
       "description": "Barmer",
-      "imgSrc": '/assets/hostel/gudamalani.jpg',  //missing
-      "data": '/assets/hostel/gudamalani.pdf',    //missing
-      "href": "gudamalani",
+      "imgSrc": '/assets/hostel/barmer-gudamalani.jpg',  //missing
+      "data": '/assets/hostel/barmer-gudamalani.pdf',    //missing
+      "href": "barmer-gudamalani",
     },
     ,
     {
       "id": 15,
       "title": "जाट समाज विकास एवं छात्रावास, गुढामालानी",
       "description": "Barmer",
-      "imgSrc": '/assets/hostel/gudamalani.jpg',  //missing
-      "data": '/assets/hostel/gudamalani.pdf',    //missing
-      "href": "gudamalani",
+      "imgSrc": '/assets/hostel/barmer-gudamalani.jpg',  //missing
+      "data": '/assets/hostel/barmer-gudamalani.pdf',    //missing
+      "href": "barmer-gudamalani",
     }
     ,
     {
@@ -240,7 +240,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/sheo.jpg',  //missing
       "data": '/assets/hostel/barmer-sheo.pdf',   
-      "href": "barmer-sheo.",
+      "href": "barmer-sheo",
     },
     {
       "id": 17,
@@ -273,7 +273,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/baldev-ram-barmer.jpg',  //missing
       "data": '/assets/hostel/barmer-baldev-ram-barmer.pdf', 
-      "href": "barmer-baldev-ram-barmer.pdf",
+      "href": "barmer-baldev-ram-barmer",
     },
     {
       "id": 20,
@@ -281,7 +281,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/sedwa.jpg',  //missing
       "data": '/assets/hostel/sedwa.pdf', //missing
-      "href": "sedwa.pdf",
+      "href": "sedwa",
     },
     {
       "id": 21,
@@ -289,7 +289,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/bhimda.jpg',  //missing
       "data": '/assets/hostel/barmer-bhimda.pdf', 
-      "href": "barmer-bhimda.pdf",
+      "href": "barmer-bhimda",
     },
     {
       "id": 22,
@@ -297,7 +297,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/jat-charitable-barmer.jpg',  //missing
       "data": '/assets/hostel/jat-charitable-barmer.pdf', //missing
-      "href": "jat-charitable-barmer.pdf",
+      "href": "jat-charitable-barmer",
     },
     {
       "id": 23,
@@ -305,7 +305,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/yuva-choupal-barmer.jpg',  //missing
       "data": '/assets/hostel/yuva-choupal-barmer.pdf', //missing
-      "href": "yuva-choupal-barmer.pdf",
+      "href": "yuva-choupal-barmer",
     },
     {
       "id": 24,
@@ -313,7 +313,7 @@ const projectsData = {
       "description": "Barmer",
       "imgSrc": '/assets/hostel/seth-ramlal-barmer.jpg',  //missing
       "data": '/assets/hostel/seth-ramlal-barmer.pdf', //missing
-      "href": "seth-ramlal-barmer.pdf",
+      "href": "seth-ramlal-barmer",
     }
   ]
 ,
@@ -359,8 +359,8 @@ const projectsData = {
       "title": "कन्या छात्रावास, भीलवाड़ा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/girls-bhilwara.jpg',  //missing
-      "data": '/assets/hostel/bhilwara-girls-bhilwara.pdf',   //missing
-      "href": "bhilwara-girls-bhilwara",
+      // "data": '/assets/hostel/bhilwara-girls-bhilwara.pdf',   //missing
+      // "href": "bhilwara-girls-bhilwara",
       "status":  "working"
     }
   ],
@@ -444,7 +444,7 @@ const projectsData = {
     "description": "Chittorgarh",
     "imgSrc": '/assets/hostel/kapasan-boys-chittorgarh.jpg',  //missing
     "data": '/assets/hostel/chittorgarh-kapasan-boys-chittorgarh.pdf',  
-    "href": "chittorgarh-kapasan-boys-chittorgarh.pdf",
+    "href": "chittorgarh-kapasan-boys-chittorgarh",
   },
   {
     "id": 4,
@@ -452,7 +452,7 @@ const projectsData = {
     "description": "Chittorgarh",
     "imgSrc": '/assets/hostel/kapasan-girls-chittorgarh.jpg',  //missing
     "data": '/assets/hostel/chittorgarh-kapasan-girls-chittorgarh.pdf',  
-    "href": "chittorgarh-kapasan-girls-chittorgarh.pdf",
+    "href": "chittorgarh-kapasan-girls-chittorgarh",
   }
 ],
 "churu": [
@@ -545,9 +545,9 @@ const projectsData = {
     "id": 2,
     "title": "किसान छात्रावास, भणियाणा",
     "description": "Jaisalmer",
-    "imgSrc": '/assets/hostel/bhaniayana-jaisalmer.jpg',  //missing
-    "data": '/assets/hostel/bhaniayana-jaisalmer.pdf',   //missing
-    "href": "bhaniayana-jaisalmer",
+    "imgSrc": '/assets/hostel/jaisalmer-bhaniayana-jaisalmer.jpg',  //missing
+    "data": '/assets/hostel/jaisalmer-bhaniayana-jaisalmer.pdf',   //missing
+    "href": "jaisalmer-bhaniayana-jaisalmer",
     "status":  "working"
   },
   {
@@ -556,7 +556,7 @@ const projectsData = {
     "description": "Jaisalmer",
     "imgSrc": '/assets/hostel/girls-jaisalmer.jpg',  //missing
     "data": '/assets/hostel/girls-jaisalmer.pdf',   //missing
-    "href": "girls-jaisalmer.pdf",
+    "href": "girls-jaisalmer",
   }
 ],
 "jaipur": [
@@ -636,9 +636,9 @@ const projectsData = {
     "id": 9,
     "title": "किसान सेवा समिति, फागी",
     "description": "Jaipur",
-    "imgSrc": '/assets/hostel/fagi-jaipur.jpg',  //missing
-    "data": '/assets/hostel/fagi-jaipur.pdf',   //missing
-    "href": "fagi-jaipur",
+    "imgSrc": '/assets/hostel/jaipur-fagi-jaipur.jpg',  //missing
+    "data": '/assets/hostel/jaipur-fagi-jaipur.pdf',   //missing
+    "href": "jaipur-fagi-jaipur",
     "status":  "working"
   }
 ],
@@ -704,17 +704,17 @@ const projectsData = {
     "title": "किसान छात्रावास, बावड़ी",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/baori-jodhpur.jpg',  //missing
-    "data": '/assets/hostel/baori-jodhpur.pdf', //missing
-    "href": "baori-jodhpur",
+    "data": '/assets/hostel/jodhpur-baori-jodhpur.pdf', //missing
+    "href": "jodhpur-baori-jodhpur",
     "status":  "working"
   },
   {
     "id": 5,
     "title": "वीर एस.पी. ताराचंद जाट छात्रावास, बिलाड़ा, जोधपुर",
     "description": "Jodhpur",
-    "imgSrc": '/assets/hostel/bilara-jodhpur.jpg',  //missing
-    "data": '/assets/hostel/bilara-jodhpur.pdf', //missing
-    "href": "bilara-jodhpur",
+    "imgSrc": '/assets/hostel/jodhpur-bilara-jodhpur.jpg',  //missing
+    "data": '/assets/hostel/jodhpur-bilara-jodhpur.pdf', //missing
+    "href": "jodhpur-bilara-jodhpur",
     "status":  "working"
   },
   {
@@ -766,9 +766,9 @@ const projectsData = {
     "id": 11,
     "title": "वीर तेजा मंदिर जाट संस्थान, भोपालगढ़",
     "description": "Jodhpur",
-    "imgSrc": '/assets/hostel/jodhpur/bhopalgarh-jodhpur.jpg',  //missing
-    "data": '/assets/hostel/jodhpur/bhopalgarh-jodhpur.pdf', //missing
-    "href": "bhopalgarh-jodhpur",
+    "imgSrc": '/assets/hostel/jodhpur/jodhpur-bhopalgarh-jodhpur.jpg',  //missing
+    "data": '/assets/hostel/jodhpur/jodhpur-bhopalgarh-jodhpur.pdf', //missing
+    "href": "jodhpur-bhopalgarh-jodhpur",
     "status":  "working"
   },
   {
@@ -976,8 +976,8 @@ const projectsData = {
     "title": "वीर तेजा जाट छात्रावास डेगाना, नागौर",
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore-degana-nagore.jpg',  //missing
-    "data": '/assets/hostel/degana-nagore.pdf', //missing
-    "href": "degana-nagore",
+    "data": '/assets/hostel/nagore-degana-nagore.pdf', //missing
+    "href": "nagore-degana-nagore",
     "status":  "working"
   },
   {
@@ -994,8 +994,8 @@ const projectsData = {
     "title": "किसान छात्रावास, डीडवाना",
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nagore-didwana-nagore.jpg',  
-    "data": '/assets/hostel/didwana-nagore.pdf', //missing
-    "href": "didwana-nagore",
+    "data": '/assets/hostel/nagore-didwana-nagore.pdf', //missing
+    "href": "nagore-didwana-nagore",
     "status":  "working"
   },
   {
@@ -1110,9 +1110,9 @@ const projectsData = {
     "id": 17,
     "title": "ग्रामोत्थान विद्या पीठ लाडनू",
     "description": "Nagore",
-    "imgSrc": '/assets/hostel/gramothan-ladnu-nagore.jpg',  //missing
-    "data": '/assets/hostel/gramothan-ladnu-nagore.pdf', //missing
-    "href": "gramothan-ladnu-nagore",
+    "imgSrc": '/assets/hostel/nagore-gramothan-ladnu-nagore.jpg',  //missing
+    "data": '/assets/hostel/nagore-gramothan-ladnu-nagore.pdf', //missing
+    "href": "nagore-gramothan-ladnu-nagore",
     "status":  "working"
   },
   {

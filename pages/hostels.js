@@ -60,7 +60,9 @@ export default function Projects() {
                           key={d.title}
                           title={d.title}
                           description={d.description}
-                          imgSrc={d.imgSrc}
+                          //TODO: Display image only after opening the hostel. Not in the starting display box.
+                         // myLog.exists ? imgSrc={d.imgSrc} : {}
+                         // imgSrc={d.imgSrc} 
                           href={`hostel-detail?hostel=${d.href}`}
                         />
                       )
