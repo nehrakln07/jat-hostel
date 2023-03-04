@@ -149,8 +149,8 @@ const projectsData = {
       "title": "किसान छात्रावास संस्थान, धोरीमन्ना",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/kisan-hostel-dhorimanna-barmer.jpg',  //missing
-      "data": '/assets/hostel/kisan-hostel-dhorimanna-barmer',   //missing
-      "href": "kisan-hostel-dhorimanna-barmer.pdf",
+      "data": '/assets/hostel/kisan-hostel-dhorimanna-barmer.pdf',   //missing
+      "href": "kisan-hostel-dhorimanna-barmer",
       "status":  "working"
     },
     {
@@ -444,7 +444,7 @@ const projectsData = {
     "description": "Chittorgarh",
     "imgSrc": '/assets/hostel/kapasan-boys-chittorgarh.jpg',  //missing
     "data": '/assets/hostel/chittorgarh-kapasan-boys-chittorgarh.pdf',  
-    "href": "chittorgarh-kapasan-boys-chittorgarh.pdf",
+    "href": "chittorgarh-kapasan-boys-chittorgarh",
   },
   {
     "id": 4,
@@ -452,7 +452,7 @@ const projectsData = {
     "description": "Chittorgarh",
     "imgSrc": '/assets/hostel/kapasan-girls-chittorgarh.jpg',  //missing
     "data": '/assets/hostel/chittorgarh-kapasan-girls-chittorgarh.pdf',  
-    "href": "chittorgarh-kapasan-girls-chittorgarh.pdf",
+    "href": "chittorgarh-kapasan-girls-chittorgarh",
   }
 ],
 "churu": [
