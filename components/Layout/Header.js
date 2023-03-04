@@ -7,16 +7,16 @@ import Image from "next/image";
 
 const MENU_OPTIONS =[{
   id: 1,
+  lable: "Hostels",
+  url: "hostels"
+},{
+  id: 2,
   lable: "Courses",
   url: "courses"
 },{
-  id: 2,
+  id: 3,
   lable: "Careers",
   url: "careers"
-},{
-  id: 3,
-  lable: "Hostels",
-  url: "hostels"
 },{
   id: 4,
   lable: "About Us",

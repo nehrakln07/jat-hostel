@@ -17,15 +17,15 @@ const Hero = () => {
       <ScrollAnimationWrapper>
         <motion.div className="flex text-center"
           variants={scrollAnimation}>
-            <div className="w-full my-10" style={{fontWeight: 700}}>
-              <p className="text-4xl text-bold text-green-500"><span className="text-orange-500">जाट </span>बलवान - जय भगवान</p>
-              <p className="text-4xl text-bold text-green-500">जय जवान - जय किसान</p>
+            <div className="w-full my-10 flex justify-between flex-wrap md:flex-wrap text-center" style={{fontWeight: 700}}>
+              <p className="w-full text-4xl text-bold text-green-500"><span className="text-orange-500">जाट </span>बलवान - जय भगवान</p>
+              <p className="w-full text-4xl text-bold text-green-500">जय जवान - जय किसान</p>
             </div>
         </motion.div>
       </ScrollAnimationWrapper>
       <ScrollAnimationWrapper>
         <motion.div
-          className="grid grid-flow-row sm:grid-flow-col grid-rows-2 md:grid-rows-1 sm:grid-cols-2 gap-8 pb-6 sm:py-16"
+          className="grid grid-flow-row sm:grid-flow-col grid-rows-2 md:grid-rows-1 sm:grid-cols-2 gap-8 pb-6 sm:pb-16"
           variants={scrollAnimation}>
           <div className="flex w-full">
             <motion.div className="w-full h-full	" variants={scrollAnimation}>
@@ -63,11 +63,11 @@ const Hero = () => {
           <p className="text-black-500 mt-4 mb-6">
             Rajasthan Jat Hostels, a network of hostels run by community aimed at connecting students from all over Rajasthan and providing them with mentorship opportunities, career guidance and push society in right direction.
           </p>
-          <div className="w-full text-center">
+          {/* <div className="w-full text-center">
             <ButtonPrimary>
-              <Link href="/hostels">Veiw All Hostels</Link>
+              <Link href="/hostels">View All Hostels</Link>
             </ButtonPrimary>
-          </div>
+          </div> */}
         </motion.div>
       </scrollAnimation>
     </div>

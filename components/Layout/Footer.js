@@ -54,7 +54,7 @@ const Footer = () => {
             <strong className="font-medium">Email: </strong>rajasthanjathostel@gmail.com
           </p>
           <p className="mb-4">
-            <strong className="font-medium">Phone: </strong>94138-10464
+            <strong className="font-medium">Phone: </strong>94136-06213
           </p>
           <div className="flex w-full mt-2 mb-8 -mx-2 justify-center">
             <div className="mx-2 bg-white-500 rounded-full items-center justify-center flex p-2 shadow-md">
