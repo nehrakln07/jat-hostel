@@ -11,13 +11,13 @@ const Hero = () => {
 
   return (
     <div
-      className="max-w-screen-xl mt-24 mb-24 px-8 xl:px-16 mx-auto"
+      className="max-w-screen-xl mt-24 mb-24 px-2 xl:px-16 mx-auto"
       id="about"
     >
       <ScrollAnimationWrapper>
         <motion.div className="flex text-center"
           variants={scrollAnimation}>
-            <div className="w-full my-10 flex justify-between flex-wrap md:flex-wrap text-center" style={{fontWeight: 700}}>
+            <div className="w-full my-10 flex justify-between flex-wrap md:flex-nowrap text-center pt-16" style={{fontWeight: 700}}>
               <p className="w-full text-4xl text-bold text-green-500"><span className="text-orange-500">जाट </span>बलवान - जय भगवान</p>
               <p className="w-full text-4xl text-bold text-green-500">जय जवान - जय किसान</p>
             </div>
