@@ -63,7 +63,7 @@ export default function Projects() {
                           //TODO: Display image only after opening the hostel. Not in the starting display box.
                          // myLog.exists ? imgSrc={d.imgSrc} : {}
                          // imgSrc={d.imgSrc} 
-                          href={`hostel-detail?hostel=${d.href}`}
+                          href={`hostel-detail?id=${d.id}&district=${selectedDistrict}`}
                         />
                       )
                     })
