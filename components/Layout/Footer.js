@@ -70,6 +70,10 @@ const Footer = () => {
           <p className="text-gray-400">©{new Date().getFullYear()} - Rajasthan Jat Hostel</p>
         </div>
       </div>
+      <div className="w-full text-center">
+        <p className="text-lg">Build & managed by <Link key ="managedby" className="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 underline text-green-500" href="https://tharitsolution.vercel.app">Thar It Solution</Link> </p>
+      </div>
+
     </div>
   );
 };
