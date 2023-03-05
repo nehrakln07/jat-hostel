@@ -226,7 +226,7 @@ const projectsData = {
     },
     ,
     {
-      "id": 16,
+      "id": 15,
       "title": "श्री बलदेव राम मिर्धा किसान छात्रावास, शिव",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/sheo.jpg',  //missing
@@ -234,7 +234,7 @@ const projectsData = {
       "href": "barmer-sheo",
     },
     {
-      "id": 17,
+      "id": 16,
       "title": "श्री बलदेव राम मिर्धा किसान छात्रावास, धनाऊ",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/dhanau.jpg',  //missing
@@ -242,7 +242,7 @@ const projectsData = {
       "href": "barmer-dhanau",
     },
     {
-      "id": 18,
+      "id": 17,
       "title": "श्री नाथूराम मिर्धा बालिका छात्रावास , सिणधरी",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/sindhari-girls.jpg',  //missing
