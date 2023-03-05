@@ -317,7 +317,7 @@ const projectsData = {
       "title": "जाट छात्रावास, गंगापुर, भीलवाड़ा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/gangapur-bhilwara.jpg',  //missing
-      "data": '/assets/hostel/bhilwara-gangapur-bhilwara.pdf',   //missing
+      "data": '/assets/hostel/default.pdf',   //missing
       "href": "default",
       // "href": "bhilwara-gangapur-bhilwara",
       "status":  "working"
@@ -327,7 +327,7 @@ const projectsData = {
       "title": "कन्या छात्रावास, भीलवाड़ा",
       "description": "Bhilwara",
       "imgSrc": '/assets/hostel/girls-bhilwara.jpg',  //missing
-      "data": '/assets/hostel/bhilwara-girls-bhilwara.pdf',   //missing
+      "data": '/assets/hostel/default.pdf',   //missing
       // "href": "bhilwara-girls-bhilwara",
       "href": "default",
       "status":  "working"
@@ -357,7 +357,7 @@ const projectsData = {
     "title": "भीमसेन चौधरी किसान छात्रावास, लूणकरणसर",
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner-lunkaransar-bikaner.jpeg', 
-    "data": '/assets/hostel/lunkaransar-bikaner.pdf',  
+    "data": '/assets/hostel/default.pdf',  
     // "href": "lunkaransar-bikaner",
     "href": "default",
     "status":  "working"
@@ -385,7 +385,7 @@ const projectsData = {
     "title": "चौधरी चरण सिंह बालिका छात्रावास, बीकानेर",
     "description": "Bikaner",
     "imgSrc": '/assets/hostel/bikaner-girls-bikaner.jpg', 
-    "data": '/assets/hostel/girls-bikaner.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "girls-bikaner",
     "href": "default",
   }
@@ -441,7 +441,7 @@ const projectsData = {
     "title": "ग्रामीण किसान छात्रावास संस्थान रेलवे फाटक के पास सालासर बाईपास रोड़, रतनगढ़",
     "description": "Churu",
     "imgSrc": '/assets/hostel/churu-ratangarh-boys-churu.jpg',  //missing
-    "data": '/assets/hostel/ratangarh-boys-churu.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "ratangarh-boys-churu",
     "href": "default",
     "status":  "working"
@@ -451,7 +451,7 @@ const projectsData = {
     "title": "जाट छात्रावास, सुजानगढ़",
     "description": "Churu",
     "imgSrc": '/assets/hostel/sujangarh-boys-churu.jpg',  //missing
-    "data": '/assets/hostel/sujangarh-boys-churu.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "sujangarh-boys-churu",
     "href": "default",
     "status":  "working"
@@ -470,7 +470,7 @@ const projectsData = {
     "title": "किसान छात्रावास, सरदारशहर",
     "description": "Churu",
     "imgSrc": '/assets/hostel/sardarshahar-boys-churu.jpg',  //missing
-    "data": '/assets/hostel/sardarshahar-boys-churu.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "sardarshahar-boys-churu",
     "href": "default",
     "status":  "working"
@@ -480,7 +480,7 @@ const projectsData = {
     "title": "आदर्श कन्या छात्रावास, सरदारशहर",
     "description": "Churu",
     "imgSrc": '/assets/hostel/sardarshahar-girls-churu.jpg',  //missing
-    "data": '/assets/hostel/sardarshahar-girls-churu.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "sardarshahar-girls-churu",
     "href": "default",
     "status":  "working"
@@ -492,7 +492,7 @@ const projectsData = {
     "title": "जाट कन्या छात्रावास, हनुमानगढ़",
     "description": "Hanumangarh",
     "imgSrc": '/assets/hostel/hanumangarh-jat-girls-hanumangarh.jpeg',  //missing
-    "data": '/assets/hostel/jat-girls-hanumangarh.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "jat-girls-hanumangarh",
     "href": "default",
     "status":  "working"
@@ -531,7 +531,7 @@ const projectsData = {
     "title": "कन्या छात्रावास, जैसलमेर",
     "description": "Jaisalmer",
     "imgSrc": '/assets/hostel/girls-jaisalmer.jpg',  //missing
-    "data": '/assets/hostel/girls-jaisalmer.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "girls-jaisalmer",
     "href": "default",
   }
@@ -578,7 +578,7 @@ const projectsData = {
     "title": "महाराजा सूरजमल छात्रावास, कोटपूतली, जयपुर",
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/kotputli-jaipur.jpg',  //missing
-    "data": '/assets/hostel/kotputli-jaipur.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "kotputli-jaipur",
     "href": "default",
     "status":  "working"
@@ -588,7 +588,7 @@ const projectsData = {
     "title": "वीर तेजाजी बालिका छात्रावास, चाकसू, जयपुर",
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/chaksu-jaipur.jpg',  //missing
-    "data": '/assets/hostel/chaksu-jaipur.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "chaksu-jaipur",
     "href": "default",
     "status":  "working"
@@ -598,7 +598,7 @@ const projectsData = {
     "title": "श्री वीर तेजा जाट समाज संस्थान, फुलेरा, जयपुर",
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/fulera-jaipur.jpg',  //missing
-    "data": '/assets/hostel/fulera-jaipur.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "fulera-jaipur",
     "href": "default",
     "status":  "working"
@@ -608,7 +608,7 @@ const projectsData = {
     "title": "जाट छात्रावास (जाट विकास समिति) दुधु, जयपुर",
     "description": "Jaipur",
     "imgSrc": '/assets/hostel/dudhu-jaipur.jpg',  //missing
-    "data": '/assets/hostel/dudhu-jaipur.pdf',   //missing
+    "data": '/assets/hostel/default.pdf',   //missing
     // "href": "dudhu-jaipur",
     "href": "default",
     "status":  "working"
@@ -638,7 +638,7 @@ const projectsData = {
     "title": "जाट समाज शिक्षण संस्थान, भीनमाल",
     "description": "Jalore",
     "imgSrc": '/assets/hostel/jalore-bhinmal-jalore.jpeg', 
-    "data": '/assets/hostel/bhinmal-jalore.pdf', //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "bhinmal-jalore",
     "href": "default",
     "status":  "working"
@@ -713,7 +713,7 @@ const projectsData = {
     "title": "किसान छात्रावास, पीपाड़ शहर, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/pipar-girls-jodhpur.jpg',  //missing
-    "data": '/assets/hostel/pipar-girls-jodhpur.pdf', //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "pipar-girls-jodhpur",
     "href": "default",
     "status":  "working"
@@ -750,7 +750,7 @@ const projectsData = {
     "title": "वीर तेजा मंदिर जाट संस्थान, भोपालगढ़",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/jodhpur-bhopalgarh-jodhpur.jpg',  //missing
-    "data": '/assets/hostel/jodhpur/jodhpur-bhopalgarh-jodhpur.pdf', //missing
+    "data": '/assets/hostel/jodhpur-bhopalgarh-jodhpur.pdf', //missing
     "href": "jodhpur-bhopalgarh-jodhpur",
     "status":  "working"
   },
@@ -768,7 +768,7 @@ const projectsData = {
     "title": "श्री वीर तेजाजी सेवा समिति, तिंवरी, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/tinwari-jodhpur.jpg',  //missing
-    "data": '/assets/hostel/tinwari-jodhpur.pdf', //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "tinwari-jodhpur",
     "href": "default",
     "status":  "working"
@@ -778,7 +778,7 @@ const projectsData = {
     "title": "किसान छात्रावास शेरगढ़",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/shergarh-jodhpur.jpg',  //missing
-    "data": '/assets/hostel/shergarh-jodhpur.pdf', //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "shergarh-jodhpur",
     "href": "default",
     "status":  "working"
@@ -801,7 +801,7 @@ const projectsData = {
     "title": "श्री वीर तेजा किसान जाट छात्रावास, तालेड़ा, बूंदी",
     "description": "Bundi",
     "imgSrc": '/assets/hostel/bundi.jpg',  //missing
-    "data": '/assets/hostel/bundi.pdf', //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "bundi",
     "href": "default",
     "status":  "working"
@@ -895,7 +895,7 @@ const projectsData = {
     "title": "वीर तेजाजी जाट किसान छात्रावास, पाली",
     "description": "Pali",
     "imgSrc": '/assets/hostel/tejaji-jat-pali.jpg',  //missing
-    "data": '/assets/hostel/tejaji-jat-pali.pdf', //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "tejaji-jat-pali",
     "href": "default",
     "status":  "working"
@@ -923,7 +923,7 @@ const projectsData = {
     "title": "वीर तेजाजी गोडवार जाट समाज छात्रावास, सादरी पाली",
     "description": "Pali",
     "imgSrc": '/assets/hostel/sadri-pali.jpg',  //missing
-    "data": '/assets/hostel/sadri-pali.pdf', //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "pali",
     "href": "default",
     "status":  "working"
@@ -932,8 +932,8 @@ const projectsData = {
     "id": 5,
     "title": "वीर तेजाजी विकास समिति, पाली",
     "description": "Pali",
-    "imgSrc": '/assets/hostel//vikas-samiti-pali.jpg',  //missing
-    "data": '/assets/hostel//vikas-samiti-pali.pdf', //missing
+    "imgSrc": '/assets/hostel/vikas-samiti-pali.jpg',  //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "vikas-samiti-pali",
     "href": "default",
     "status":  "working"
@@ -945,7 +945,7 @@ const projectsData = {
     "title": "महाराजा सूरजमल जाट छात्रावास, हिडोन सिटी, करौली",
     "description": "Karouli",
     "imgSrc": '/assets/hostel/karouli.jpeg', 
-    "data": '/assets/hostel/karouli.pdf', //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "karouli",
     "href": "default",
     "status":  "working"
@@ -1046,8 +1046,8 @@ const projectsData = {
     "id": 11,
     "title": "किसान छात्रावास, कोलिया",
     "description": "Nagore",
-    "imgSrc": '/assets/hostel/nagore/koliya-nagore.jpg',  //missing
-    "data": '/assets/hostel/nagore/koliya-nagore.pdf', //missing
+    "imgSrc": '/assets/hostel/koliya-nagore.jpg',  //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "koliya-nagore",
     "href": "default",
     "status":  "working"
@@ -1057,7 +1057,7 @@ const projectsData = {
     "title": "वीर तेजाजी बालिका छात्रावास, नावां",
     "description": "Nagore",
     "imgSrc": '/assets/hostel/nawa-girls-nagore.jpg',  //missing
-    "data": '/assets/hostel/nawa-girls-nagore.pdf', //missing
+    "data": '/assets/hostel/default.pdf', //missing
     // "href": "nawa-girls-nagore",
     "href": "default",
     "status":  "working"
