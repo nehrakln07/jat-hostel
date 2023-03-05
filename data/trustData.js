@@ -7,7 +7,7 @@ const trustData = {
         "id": 1,
         "title": "श्री जाट चेरिटेबल ट्रस्ट, बाड़मेर",
         "description": "Barmer",
-        // "imgSrc": '/assets/hostel/default.jpeg',  //missing
+        "imgSrc": '/assets/hostel/white.jpeg',  //missing
         "data": '/assets/hostel/default.pdf', //missing
         // "href": "jat-charitable-barmer",
         "href": "default",
@@ -16,7 +16,7 @@ const trustData = {
         "id": 2,
         "title": "युवा चोपाल ट्रस्ट, बाडमेर",
         "description": "Barmer",
-        // "imgSrc": '/assets/hostel/default.jpeg',  //missing
+        "imgSrc": '/assets/hostel/white.jpeg',  //missing
         "data": '/assets/hostel/yuva-choupal-barmer.pdf', //missing
         "href": "yuva-choupal-barmer",
       },
@@ -24,7 +24,7 @@ const trustData = {
         "id": 3,
         "title": "सेठ रामलाल सऊ चौथी देवी ट्रस्ट, बाडमेर",
         "description": "Barmer",
-        // "imgSrc": '/assets/hostel/default.jpeg',  //missing
+        "imgSrc": '/assets/hostel/white.jpeg',  //missing
         "data": '/assets/hostel/default.pdf', //missing
         // "href": "seth-ramlal-barmer",
         "href": "default",
