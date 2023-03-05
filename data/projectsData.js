@@ -664,7 +664,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "श्री बलदेव राम शिक्षण सेवा संस्थान, पीपाड़, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur-pipar-jodhpur.jpeg',  //missing
@@ -673,7 +673,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "श्री रामनारायण चौधरी छात्रावास, भगत की कोठी, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/zinda-jodhpur.jpg',  //missing
@@ -682,7 +682,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "किसान छात्रावास, बावड़ी",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/baori-jodhpur.jpg',  //missing
@@ -691,7 +691,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 5,
+    "id": 6,
     "title": "वीर एस.पी. ताराचंद जाट छात्रावास, बिलाड़ा, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur-bilara-jodhpur.jpg',  //missing
