@@ -35,7 +35,7 @@ const trustData = {
           "id": 1,
           "title": "ग्रामोत्थान विद्या पीठ संस्थान, डीडवाना",
           "description": "Nagore",
-        //   "imgSrc": '/assets/hostel/default.jpeg',  //missing
+          "imgSrc": '/assets/hostel/white.jpeg',  //missing
           "data": '/assets/hostel/default.pdf', //missing
           "href": "default",
           "status":  "working"
@@ -44,7 +44,7 @@ const trustData = {
           "id": 2,
           "title": "वीर तेजा महिला शिक्षण शोध संस्थान तेजस्थली मारवाड़ मूडना",
           "description": "Nagore",
-         // "imgSrc": '/assets/hostel/default.jpeg',  //missing
+         "imgSrc": '/assets/hostel/white.jpeg',  //missing
           "data": '/assets/hostel/default.pdf', //missing
           "href": "default",
           "status":  "working"
