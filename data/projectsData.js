@@ -659,7 +659,7 @@ const projectsData = {
     "title": "वीर तेजा छात्रावास शिप हाउस रोड़ पावटा, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur-paota-jodhpur.jpeg',  
-    "data": '/assets/hostel/paota-jodhpur.pdf', //missing
+    "data": '/assets/hostel/paota-jodhpur.pdf',
     "href": "paota-jodhpur",
     "status":  "working"
   },
@@ -667,8 +667,8 @@ const projectsData = {
     "id": 3,
     "title": "श्री बलदेव राम शिक्षण सेवा संस्थान, पीपाड़, जोधपुर",
     "description": "Jodhpur",
-    "imgSrc": '/assets/hostel/jodhpur-pipar-jodhpur.jpeg',  //missing
-    "data": '/assets/hostel/pipar-jodhpur.pdf', //missing
+    "imgSrc": '/assets/hostel/jodhpur-pipar-jodhpur.jpeg',  
+    "data": '/assets/hostel/pipar-jodhpur.pdf',
     "href": "pipar-jodhpur",
     "status":  "working"
   },
