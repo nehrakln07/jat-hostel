@@ -253,7 +253,7 @@ const projectsData = {
       "title": "डॉ. वीरेन्द्र मेंमोरियल छात्रावास, बाड़मेर",
       "description": "Barmer",
       "imgSrc": '/assets/hostel/virendra-memorial-barmer.jpg',  //missing
-      "data": '/assets/hostel/virendra-memorial-barmer.pdf',  //missing
+      "data": '/assets/hostel/default.pdf',  //missing
       // "href": "virendra-memorial-barmer",
       "href": "default",
       "status":  "under construction"
