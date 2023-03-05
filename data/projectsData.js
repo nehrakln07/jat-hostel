@@ -43,7 +43,7 @@ const projectsData = {
       "id": 5,
       "title": "जाट छात्रावास, किशनगढ़",
       "description": "Ajmer",
-      "imgSrc": '/assets/hostel/kishangarh.jpg', //missing
+      "imgSrc": '/assets/hostel/kishangarh.jpeg', //missing
       "data": '/assets/hostel/ajmer-kishangarh.pdf', 
       "href": "ajmer-kishangarh",
       "status":  "working"
@@ -73,7 +73,7 @@ const projectsData = {
       "id": 2,
       "title": "महाराजा सुरजमल छात्रावास समिति, बानसूर, अलवर",
       "description": "Alwar",
-      "imgSrc": '/assets/hostel/bansur-alwar.jpg', //missing
+      "imgSrc": '/assets/hostel/bansur-alwar.jpeg', //missing
       "data": '/assets/hostel/alwar-bansur-alwar.pdf', 
       "href": "alwar-bansur-alwar",
       "status":  "working"
@@ -91,7 +91,7 @@ const projectsData = {
       "id": 4,
       "title": "बालिका जाट छात्रावास, अलवर",
       "description": "Alwar",
-      "imgSrc": '/assets/hostel/balika-alwar.jpg',  //missing
+      "imgSrc": '/assets/hostel/balika-alwar.jpeg',  //missing
       "data": '/assets/hostel/alwar-balika-alwar.pdf',  //missing
       "href": "alwar-balika-alwar",
       "status":  "working"
@@ -175,7 +175,7 @@ const projectsData = {
       "id": 9,
       "title": "श्री बलदेव राम मिर्धा शिक्षण संस्थान कल्याणपुर, बाड़मेर",
       "description": "Barmer",
-      "imgSrc": '/assets/hostel/baldev-ram-kalyanpur-barmer.jpg',  //missing
+      "imgSrc": '/assets/hostel/baldev-ram-kalyanpur-barmer.jpeg',  //missing
       "data": '/assets/hostel/barmer-baldev-ram-kalyanpur-barmer.pdf',   
       "href": "barmer-baldev-ram-kalyanpur-barmer",
       "status":  "working"
@@ -184,7 +184,7 @@ const projectsData = {
       "id": 10,
       "title": "श्री बलदेव राम मिर्धा कन्या शिक्षण संस्थान कल्याणपुर, बाड़मेर",
       "description": "Barmer",
-      "imgSrc": '/assets/hostel/baldev-ram-girls-kalyanpur-barmer.jpg',  //missing
+      "imgSrc": '/assets/hostel/baldev-ram-girls-kalyanpur-barmer.jpeg',  //missing
       "data": '/assets/hostel/barmer-baldev-ram-girls-kalyanpur-barmer.pdf',   
       "href": "barmer-baldev-ram-girls-kalyanpur-barmer",
       "status":  "working"
@@ -211,7 +211,7 @@ const projectsData = {
       "id": 13,
       "title": "श्री जगदीश सिंह मेमोरियल छात्रावास, बायतु",
       "description": "Barmer",
-      "imgSrc": '/assets/hostel/baytu.jpg',  //missing
+      "imgSrc": '/assets/hostel/baytu.jpeg',  //missing
       "data": '/assets/hostel/barmer-baytu.pdf',    //missing
       "href": "barmer-baytu",
       "status":  "under-development"
@@ -220,7 +220,7 @@ const projectsData = {
       "id": 14,
       "title": "जाट समाज विकास एवं छात्रावास , गुढामालानी",
       "description": "Barmer",
-      "imgSrc": '/assets/hostel/barmer-gudamalani.jpg',  //missing
+      "imgSrc": '/assets/hostel/barmer-gudamalani.jpeg',  //missing
       "data": '/assets/hostel/barmer-gudamalani.pdf',    //missing
       "href": "barmer-gudamalani",
     },
