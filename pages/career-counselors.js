@@ -13,7 +13,7 @@ export default function Courses() {
                 </h1>
                 </div>
                 <div className="container py-4 ">
-                    <PdfViewer fileUrl={`/assets/career-counselors.pdf`} />
+                    <PdfViewer fileUrl={`/assets/default.pdf`} />
                 </div>
             </div>
         </Layout>
