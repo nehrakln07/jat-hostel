@@ -226,15 +226,6 @@ const projectsData = {
     },
     ,
     {
-      "id": 15,
-      "title": "जाट समाज विकास एवं छात्रावास, गुढामालानी",
-      "description": "Barmer",
-      "imgSrc": '/assets/hostel/barmer-gudamalani.jpg',  //missing
-      "data": '/assets/hostel/barmer-gudamalani.pdf',    //missing
-      "href": "barmer-gudamalani",
-    }
-    ,
-    {
       "id": 16,
       "title": "श्री बलदेव राम मिर्धा किसान छात्रावास, शिव",
       "description": "Barmer",
