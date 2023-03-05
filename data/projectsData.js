@@ -224,7 +224,6 @@ const projectsData = {
       "data": '/assets/hostel/barmer-gudamalani.pdf',    //missing
       "href": "barmer-gudamalani",
     },
-    ,
     {
       "id": 15,
       "title": "श्री बलदेव राम मिर्धा किसान छात्रावास, शिव",
