@@ -694,13 +694,13 @@ const projectsData = {
     "id": 6,
     "title": "वीर एस.पी. ताराचंद जाट छात्रावास, बिलाड़ा, जोधपुर",
     "description": "Jodhpur",
-    "imgSrc": '/assets/hostel/jodhpur-bilara-jodhpur.jpg',  //missing
-    "data": '/assets/hostel/jodhpur-bilara-jodhpur.pdf', //missing
+    "imgSrc": '/assets/hostel/jodhpur-bilara-jodhpur.jpg',  
+    "data": '/assets/hostel/jodhpur-bilara-jodhpur.pdf', 
     "href": "jodhpur-bilara-jodhpur",
     "status":  "working"
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "श्री वीर तेजाजी किसान छात्रावास, ओसियां, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur-osiya-jodhpur.jpeg',  //missing
@@ -709,7 +709,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "किसान छात्रावास, पीपाड़ शहर, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/pipar-girls-jodhpur.jpg',  //missing
@@ -719,7 +719,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "किसान छात्रावास, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/kisan-jodhpur.jpg',  //missing
@@ -728,7 +728,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 9,
+    "id": 10,
     "title": "किसान छात्रावास, लोहावट",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/lohavat-jodhpur.jpg',  //missing
@@ -737,7 +737,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 10,
+    "id": 11,
     "title": "वीर तेजा छात्रावास शिप हाउस रोड़ पावटा, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/teja-jodhpur.jpg',  //missing
@@ -746,7 +746,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 11,
+    "id": 12,
     "title": "वीर तेजा मंदिर जाट संस्थान, भोपालगढ़",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/jodhpur/jodhpur-bhopalgarh-jodhpur.jpg',  //missing
@@ -755,7 +755,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 12,
+    "id": 13,
     "title": "कर्म बाई शिक्षण संस्थान, ओसिया, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/karma-bai-jodhpur.jpg',  //missing
@@ -764,7 +764,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 13,
+    "id": 14,
     "title": "श्री वीर तेजाजी सेवा समिति, तिंवरी, जोधपुर",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/tinwari-jodhpur.jpg',  //missing
@@ -774,7 +774,7 @@ const projectsData = {
     "status":  "working"
   },
   {
-    "id": 14,
+    "id": 15,
     "title": "किसान छात्रावास शेरगढ़",
     "description": "Jodhpur",
     "imgSrc": '/assets/hostel/shergarh-jodhpur.jpg',  //missing
