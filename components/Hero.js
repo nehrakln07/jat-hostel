@@ -63,6 +63,7 @@ const Hero = () => {
           <p className="text-black-500 mt-4 mb-6">
             Rajasthan Jat Hostels, a network of hostels run by community aimed at connecting students from all over Rajasthan and providing them with mentorship opportunities, career guidance and push society in right direction.
           </p>
+          <a href="https://freesitemapgenerator.com/">Free xml sitemap generator</a>
           {/* <div className="w-full text-center">
             <ButtonPrimary>
               <Link href="/hostels">View All Hostels</Link>
