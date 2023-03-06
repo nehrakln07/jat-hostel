@@ -54,7 +54,7 @@ const Footer = () => {
             <strong className="font-medium">Rajasthan Jat Hostels</strong>, a network of hostels run by community aimed at connecting students from all over Rajasthan and providing them with mentorship opportunities, career guidance and right direction to society.
           </p>
           <p className="mb-4">
-            <strong className="font-medium">Address: </strong>Jat Chairitable Trust, Near first Raiway Crossing, Nehru Nagar, Barmer, Rajasthan 344001
+            <strong className="font-medium">Address: </strong>Jat Charitable Trust, Near first Raiway Crossing, Nehru Nagar, Barmer, Rajasthan 344001
           </p>
           <p className="mb-4">
             <strong className="font-medium">Email: </strong>rajasthanjathostel@gmail.com
