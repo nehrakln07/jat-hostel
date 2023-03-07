@@ -27,7 +27,7 @@ export default function Courses() {
                 </div>
                 {   selectedCource ?
                     <div className="container py-4">
-                        <div className="w-full text-right text-green-500 cursor-pointer" onClick={()=> setSelectedCource("")}>View All</div>
+                        <div className="w-full text-right text-green-500 cursor-pointer" onClick={()=> setSelectedCource("")}>Go back to Courses</div>
                         <div className="w-full">
                             <PdfViewer fileUrl={selectedCource} />
                         </div>
