@@ -7,7 +7,7 @@ const defaultMeta = {
   title: 'JAT Hostels Rajasthan',
   siteName: 'JAT Hostels Rajasthan',
   description:
-    'Rajasthan Jat Hostels, a network of hostels run by community aimed at connecting students from all over Rajasthan and providing them with mentorship opportunities, career guidance and right direction to society.',
+    'Rajasthan Jat Hostels is a network of hostels run by a community, aimed at connecting students from all over Rajasthan and providing them with mentorship opportunities, career guidance, and pushing society in the right direction.',
   // change base url of your web (without '/' at the end)
   url: 'https://rajasthanjathostel.com/',
   type: 'website',

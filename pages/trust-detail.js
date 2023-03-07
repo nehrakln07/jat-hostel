@@ -31,7 +31,7 @@ export default function HostelDetails() {
         return(
             <Layout>
                 <div className="w-full text-center">
-                    <Link href={"/hostels"}>View All Hostels</Link>
+                    <Link href={"/hostels"}>View All Trusts</Link>
                 </div>
             </Layout>
         )

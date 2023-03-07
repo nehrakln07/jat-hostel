@@ -12,16 +12,12 @@ const DISTRICT = [
         url: "barmer",
     },
     {
-        name: "Bharatpur",
-        url: "bharatpur",
+        name: "Bikaner",
+        url: "bikaner",
     },
     {
         name: "Bhilwara",
         url: "bhilwara",
-    },
-    {
-        name: "Bikaner",
-        url: "bikaner",
     },
     {
         name: "Bundi",
@@ -32,23 +28,13 @@ const DISTRICT = [
         url: "chittorgarh",
     },
     {
+        name: "Chittorgarh",
+        url: "chittorgarh",
+    },
+    {
         name: "Churu",
         url: "churu",
     },
-    {
-        name: "Dausa",
-        url: "dausa",
-    },
-
-    {
-        name: "Dholpur",
-        url: "dholpur",
-    },
-    {
-        name: "Dungarpur",
-        url: "dungarpur",
-    },
-
     {
         name: "Hanumangarh",
         url: "hanumangarh",
@@ -66,23 +52,9 @@ const DISTRICT = [
         url: "jalore",
     },
     {
-        name: "Jhalawar",
-        url: "jhalawar",
-    },
-    {
-        name: "Chittorgarh",
-        url: "chittorgarh",
-    },
-    {
-        name: "Jhunjhunu",
-        url: "jhunjhunu",
-    },
-    {
         name: "Jodhpur",
         url: "jodhpur",
     },
-
-
     {
         name: "Karauli",
         url: "karauli",
@@ -91,8 +63,6 @@ const DISTRICT = [
         name: "Kota",
         url: "kota",
     },
-
-
     {
         name: "Nagaur",
         url: "nagaur",
@@ -101,16 +71,6 @@ const DISTRICT = [
         name: "Pali",
         url: "pali",
     },
-
-    {
-        name: "Pratapgarh",
-        url: "pratapgarh",
-    },
-    {
-        name: "Rajsamand",
-        url: "rajsamand",
-    },
-
     {
         name: "sawaimadhopur",
         url: "sawaimadhopur",
@@ -119,21 +79,15 @@ const DISTRICT = [
         name: "Sikar",
         url: "sikar",
     },
-
-    {
-        name: "Sirohi",
-        url: "sirohi",
-    },
     {
         name: "Sriganaganagar",
         url: "sriganaganagar",
     },
-
-
     {
         name: "Tonk",
         url: "tonk",
-    }, {
+    }, 
+    {
         name: "Udaipur",
         url: "udaipur",
     }

@@ -26,7 +26,7 @@ export default function Careers() {
                 </div>
                 {   selectedCareer ?
                     <div className="container py-4">
-                        <div className="w-full text-right text-green-500 cursor-pointer" onClick={()=> setSelectedCareer("")}>View All</div>
+                        <div className="w-full text-right text-green-500 cursor-pointer" onClick={()=> setSelectedCareer("")}>Go back to courses</div>
                         <div className="w-full">
                             <PdfViewer fileUrl={selectedCareer} />
                         </div>
