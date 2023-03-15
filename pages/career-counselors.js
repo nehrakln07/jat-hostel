@@ -76,7 +76,7 @@ const COUNSELERS = [
     },,{
         name: 'Mohit Choudhary',
         designation: 'Software Engineer',
-        qualification: 'Btech SRM Chennai',
+        qualification: 'Btech',
         contact: '9413988756',
         experties: 'IT, Software Development, Career, Personal Development',
         address: 'Gandhi Nagar Barmer'
