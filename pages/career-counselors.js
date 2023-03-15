@@ -33,7 +33,7 @@ const COUNSELERS = [
         address: 'V/P- Anta,Ramsar,Barmer'
     },{
         name: 'Deraj Ram RAS',
-        designation: 'A.O-Govt.Medical Collage, Barmer',
+        designation: 'A.O-Govt.Medical College, Barmer',
         qualification: 'M.A-Pol.Science	',
         contact: '9001557805, Saturday -Sunday Evening',
         experties: 'RPSC Exam Specially RAS',
@@ -67,7 +67,7 @@ const COUNSELERS = [
         experties: 'NEET,JEE,CUET,Navodya school Teachor',
         address: 'V/P- G.SSS NimbalKot'
     },{
-        name: 'Kmalesh Nehra',
+        name: 'Kamlesh Nehra',
         designation: 'Software Engineer',
         qualification: 'Btech MNNIT Allahabad',
         contact: '8000822971',
