@@ -11,7 +11,7 @@ const COUNSELERS = [
         experties: 'RAS & Other Competition Exam ',
         address: 'V/P -Rampura Dhorimna Barmer'
     },{
-        name: 'BHera Ram Potliya IRS (RAS-2006 Batch)',
+        name: 'Bhera Ram Potliya IRS (RAS-2006 Batch)',
         designation: 'Additional-Commission (IT) Udaipur',
         qualification: 'BSTC, B.Ed. , MAC, English',
         contact: '95304000175, Saturday -Sunday full time',
@@ -78,7 +78,7 @@ const COUNSELERS = [
         designation: 'Software Engineer',
         qualification: 'Btech SRM Chennai',
         contact: '9413988756',
-        experties: 'JEE, NEET, IT, Software Development, Career, Personal Development',
+        experties: 'IT, Software Development, Career, Personal Development',
         address: 'Gandhi Nagar Barmer'
     }
 ]
