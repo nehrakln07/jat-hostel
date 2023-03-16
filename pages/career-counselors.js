@@ -202,13 +202,13 @@ export default function Courses() {
                                             <td className="px-6 py-4 text-sm text-gray-800">
                                                 {member.qualification}
                                             </td>
-                                            <td className="px-6 py-4 text-sm font-medium text-right">
+                                            <td className="px-6 py-4 text-sm text-gray-800">
                                                 {member.contact}
                                             </td>
                                             <td className="px-6 py-4 text-sm font-medium text-right">
                                                 {member.expertise}
                                             </td>
-                                            <td className="px-6 py-4 text-sm font-medium text-right">
+                                            <td className="px-6 py-4 text-sm text-gray-800">
                                                 {member.address}
                                             </td>
                                         </tr>
