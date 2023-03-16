@@ -4,82 +4,135 @@ import PdfViewer from "../components/PdfViewer";
 
 const COUNSELERS = [
     {
-        name: 'Dooda Ram Huda RAS ',
-        designation: 'SDM Reodar Sirohi',
-        qualification: 'MA(English, History,Pol.Science) Bed',
-        contact: '9314963657, 7976310852, Saturday -Sunday',
-        experties: 'RAS & Other Competition Exam ',
-        address: 'V/P -Rampura Dhorimna Barmer'
-    },{
         name: 'Bhera Ram Potliya IRS',
-        designation: 'Additional-Commission (IT) Udaipur',
+        designation: 'Additional-Commission (IT), Udaipur',
         qualification: 'BSTC, B.Ed. , MAC, English',
-        contact: '95304000175, Saturday -Sunday full time',
-        experties: 'IAS/RAS/NEET & Other Competition ',
-        address: 'V/P- Khara,Rathodan,Barmer'
+        contact: '95304000175, Saturday-Sunday full time',
+        expertise: 'IAS/RAS/NEET & Other Competition ',
+        address: 'V/P- Khara Rathodan,Barmer'
+    },
+    {
+        name: 'Gumna Ram RPS',
+        designation: 'Additional S.P',
+        qualification: 'MA (Sanskrit & Pol. Science)',
+        contact: '9413810464, Saturday -Sunday',
+        expertise: 'RAS/SI Raj. Police/CUET/RPSC Interview.',
+        address: 'V/P- Anta, Ramsar,Barmer'
+    }, 
+    {
+        name: 'Dooda Ram Huda RAS ',
+        designation: 'SDM Reodar, Sirohi',
+        qualification: 'MA(English, History,Pol.Science) B.Ed',
+        contact: '9314963657, 7976310852, Saturday - Sunday',
+        expertise: 'RAS & Other Competition Exams',
+        address: 'V/P -Rampura, Dhorimana, Barmer'
+    },
+    {
+        name: 'Kamlesh Nehra',
+        designation: 'Software Engineer',
+        qualification: 'Btech MNNIT Allahabad',
+        contact: '8000822971',
+        expertise: 'JEE, NEET, IT, Software Development, Career, Personal Development',
+        address: 'Bamnor Barmer'
+    },
+    {
+        name: 'Dr. Bharat Saran',
+        designation: 'Doctor',
+        qualification: 'MBBS',
+        contact: '9413942612 (1 PM TO 3 PM)',
+        expertise: 'NEET, CUET, JET, B.Sc-Nursing, Paramedical,IIT',
+        address: 'Barmer'
+    },
+    {
+        name: 'Mohit Daukiya',
+        designation: 'Software Engineer',
+        qualification: 'Computer Science(B.Tech)',
+        contact: '9413988756',
+        expertise: 'IT, Software Development',
+        address: 'Gandhi Nagar, Barmer'
     },{
         name: 'Narpat Jani',
         designation: 'Teacher',
         qualification: 'Coaching Barmer, BSC, MSC',
         contact: '9509868337',
-        experties: 'All Compatition,RPSC,RSMSSB',
-        address: 'V/P-Redana,Barmer'
-    },{
-        name: 'Gumna Ram RPS',
-        designation: 'Additional S.P',
-        qualification: 'MA (Sanskrit & Pol. Science)',
-        contact: '9413810464, Saturday -Sunday',
-        experties: 'RAS/SI Raj. Police/CUET/RPSC Interview.',
-        address: 'V/P- Anta,Ramsar,Barmer'
+        expertise: 'All Competition, RPSC, RSMSSB',
+        address: 'V/P-Redana, Barmer'
     },{
         name: 'Deraj Ram RAS',
         designation: 'A.O-Govt.Medical College, Barmer',
-        qualification: 'M.A-Pol.Science	',
+        qualification: 'M.A-Pol.Science',
         contact: '9001557805, Saturday -Sunday Evening',
-        experties: 'RPSC Exam Specially RAS',
+        expertise: 'RPSC Exam Specially RAS',
         address: 'V/P – Kanod,Barmer'
     },{
         name: 'Govind Dudi ',
         designation: 'C.A in KOTA',
         qualification: 'CA, M.com, CCCA	',
         contact: '9694002682 ANY DAYS 1 PM TO 4 PM',
-        experties: 'Commerce and CA,CS',
-        address: 'Add. 10-L-5 Mahavir Nager Kota'
+        expertise: 'Commerce and CA, CS',
+        address: 'Add. 10-L-5 Mahaveer Nager, Kota'
     },{
         name: 'Chimna Ram Jani',
         designation: 'Senior Teacher',
         qualification: 'M.A,B.Ed',
         contact: '9828581178,All days except school time',
-        experties: '	Counselling about NEET,CUET,All',
+        expertise: '	Counselling about NEET,CUET,All',
         address: 'V/P- Bhimarlai Station Barmer'
-    },{
-        name: 'Dr. Bharat Saran',
-        designation: 'Doctor',
-        qualification: 'MBBS',
-        contact: '9413942612 (1 PM TO 3 PM)',
-        experties: 'NEET, CUET, JET, B.Sc-Nursing, Paramedical,IIT',
-        address: 'Barmer'
     },{
         name: 'Joga Ram',
         designation: 'Former teacher - Navoday Vidyalya',
         qualification: 'Lecturer, Biology',
-        contact: '70149-27574 , Sunday and Evening time',
-        experties: 'NEET,JEE,CUET,Navodya school Teachor',
+        contact: '70149-27574, Sunday and Evening time',
+        expertise: 'NEET,JEE,CUET,Navodya school Teachor',
         address: 'V/P- G.SSS NimbalKot'
     },{
-        name: 'Kamlesh Nehra',
-        designation: 'Software Engineer',
-        qualification: 'Btech MNNIT Allahabad',
-        contact: '8000822971',
-        experties: 'JEE, NEET, IT, Software Development, Career, Personal Development',
-        address: 'Bamnor Barmer'
-    },,{
-        name: 'Mohit Choudhary',
-        designation: 'Software Engineer',
-        qualification: 'Btech',
-        contact: '9413988756',
-        experties: 'IT, Software Development, Career, Personal Development',
-        address: 'Gandhi Nagar Barmer'
+        name: 'Suneel Saharan',
+        designation: 'Customs Officer',
+        contact: '9351536116',
+        expertise: 'SSC-PO'
+    },{
+        name: 'Subhash Beniwal',
+        designation: 'Ins.BSF, SPG ,VRS',
+        contact: '7838043740',
+        expertise: 'SSC-PO'
+    }
+    ,{
+        name: 'Pawan kala',
+        designation: ' Ex. Officer Bank',
+        contact: '9413315001',
+        expertise: 'Banking'
+    }   ,{
+        name: 'Pooranmal Beniwal',
+        designation: 'Wing Commander (Rtd.)Nagpur',
+        contact: '9571936423',
+        expertise: 'NDA/CDS/SSB'
+    }
+    ,{
+        name: 'Vishal Choudhary',
+        designation: 'Vice Principal MSc BEd-chemistry',
+        expertise: 'NDA/CDS/SSB'
+    }
+    ,{
+        name: 'Vijay Singh Bhambhu',
+        designation: 'Ass. Profecer  MBA,MA,PGDCA,NET',
+        contact: '9166888809',
+        expertise: 'NDA/CDS/SSB'
+    }
+    ,{
+        name: 'Ajay Choudhary',
+        designation: 'Wing Commander (Rtd.), EX. Indian Air force officer And currently Dy.Director, DIO MOD GOI',
+        contact: '8377033464',
+        expertise: 'NDA/CDS/SSB'
+    }
+    ,{
+        name: 'Hanuman Choudhary',
+        designation:'BDO Siwana, Barmer',
+        expertise: 'RAS,SI RAJ POLICE, RPSC Interview'
+    }
+    ,{
+        name: 'Kanaram Pooniya',
+        designation:'Ass,Professor, Pol. Scince, College Barmer',
+        expertise: 'NET, JRF Pol. Science'
     }
 ]
 export default function Courses() {
@@ -153,7 +206,7 @@ export default function Courses() {
                                                 {member.contact}
                                             </td>
                                             <td className="px-6 py-4 text-sm font-medium text-right">
-                                                {member.experties}
+                                                {member.expertise}
                                             </td>
                                             <td className="px-6 py-4 text-sm font-medium text-right">
                                                 {member.address}
