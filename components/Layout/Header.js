@@ -55,7 +55,7 @@ const Header = () => {
           {
             !mobileMenuOpen ?
             <div className="max-w-7xl mx-auto px-4 sm:px-6">
-              <div className="flex justify-between items-center border-b-2 border-gray-100 py-6">
+              <div className="flex justify-between cursor-pointer items-center border-b-2 border-gray-100 py-6">
                 <div className="lg:w-0 lg:flex-1">
                   <Link href="/">
                       <Image
@@ -77,7 +77,7 @@ const Header = () => {
                   { 
                     MENU_OPTIONS.map((menu)=>{
                       return(
-                        <Link key={menu.id} className="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150" href={menu.url}>{menu.lable}</Link>
+                        <Link key={menu.id} className="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150" href={menu.lable === 'Feedback' ? `${menu.url}`: `/${menu.url}`}>{menu.lable}</Link>
                       )
                     })
                   }
@@ -113,7 +113,7 @@ const Header = () => {
                       MENU_OPTIONS.map((menu)=>{
                         return(
                           <li className="w-full p-2">
-                            <Link key={menu.id} className="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150" href={menu.url}>{menu.lable}</Link>
+                            <Link key={menu.id} className="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150" href={`/${menu.url}`}>{menu.lable}</Link>
                           </li>
                         )
                       })

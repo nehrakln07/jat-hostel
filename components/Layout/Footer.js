@@ -77,7 +77,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="w-full text-center">
-        <p className="text-lg">Built & managed by <Link key ="managedby" className="text-base leading-6 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 underline text-green-500" href="https://tharitsolution.vercel.app">Thar IT Solutions</Link> </p>
+        <p className="text-lg">Built & managed by <Link key ="managedby" href="https://tharitsolution.vercel.app"><span className="text-base leading-6 font-medium" style={{color: '#b96607'}}>Thar IT Solutions</span></Link> </p>
       </div>
 
     </div>

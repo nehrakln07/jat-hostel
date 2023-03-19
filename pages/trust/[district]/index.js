@@ -1,11 +1,11 @@
 import {useState, useEffect} from "react";
 import { useRouter } from 'next/router';
 
-import projectsData from '../data/projectsData'
-import DISTRICT from '../data/districts';
-import Card from '../components/Card'
-import SeoHead from "../components/SeoHead";
-import Layout from "../components/Layout/Layout";
+import trustData from '../../../data/trustData'
+import DISTRICT from '../../../data/trustDistrict';
+import Card from '../../../components/Card'
+import SeoHead from "../../../components/SeoHead";
+import Layout from "../../../components/Layout/Layout";
 
 export default function Projects() {
   const router = useRouter();
@@ -18,22 +18,22 @@ export default function Projects() {
   useEffect(()=>{
     if(urlDistrict){
       setSelectedDistrict(urlDistrict);
-      setData(projectsData[urlDistrict]);
+      setData(trustData[urlDistrict]);
     }
   },[urlDistrict])
   console.log({optionData, selectedDistrict, data})
   return (  
     <Layout>
-      <SeoHead title='JAT Hostels Rajasthan' />
+      <SeoHead title='JAT Trusts Rajasthan' />
       <div className="max-w-screen-xl min-h-screen mt-24 px-8 xl:px-16 mx-auto">
-        <div className="space-y-2 pt-6 pb-8 md:space-y-5">
+        <div className="space-y-2 pt-16 pb-8 md:space-y-5">
           <h1 className="text-green-500 text-3xl font-bold text-center sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-           Jat Hostels
+            Jat Trust in Rajasthan
           </h1>
         </div>
         <div className="container py-4">
           <label className="font-bold text-lg">Selcet District -</label>
-          <select value={selectedDistrict} onChange={(e) => router.push('/hostels?district='+e.target.value)} className="form-control">
+          <select value={selectedDistrict} onChange={(e) => router.push('/trusts?district='+e.target.value)} className="form-control">
             <option value="select">Select an District</option>
             {
               optionData.map((item, key)=>{
@@ -50,7 +50,7 @@ export default function Projects() {
             <div className="w-full">
               <div className="w-full">
                 <h2 className="w-full text-3xl font-bold">
-                  {`Hostels in ${selectedDistrict}`}
+                  {`Jat Trusts in ${selectedDistrict}`}
                 </h2>
                 <div className="md:m-4 flex flex-wrap">
                   { data && data.length &&
@@ -63,7 +63,7 @@ export default function Projects() {
                           //TODO: Display image only after opening the hostel. Not in the starting display box.
                          // myLog.exists ? imgSrc={d.imgSrc} : {}
                          // imgSrc={d.imgSrc} 
-                          href={`hostel-detail?id=${d.id}&district=${selectedDistrict}`}
+                          href={`/trust/${selectedDistrict}/${d.id}`}
                         />
                       )
                     })

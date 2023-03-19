@@ -140,7 +140,7 @@ export default function Courses() {
         <Layout>
             <SeoHead title='Career-counselors' />
             <div className="max-w-screen-xl min-h-screen mt-24 px-8 xl:px-16 mx-auto">
-                <div className="space-y-2 pt-6 pb-8 md:space-y-5">
+                <div className="space-y-2 pt-16 pb-8 md:space-y-5">
                 <h1 className="text-green-500 text-3xl font-bold text-center sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
                     Career-counselors
                 </h1>
