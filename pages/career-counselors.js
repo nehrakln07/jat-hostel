@@ -217,6 +217,9 @@ export default function Courses() {
                                 }
                             </tbody>
                         </table>
+                        <p className="text-black-500 mt-4 mb-6">
+                     "We welcome candidates who have excelled in their field(Eg: Job/Service/Business) and like to mentor & motivate young minds. Send a mail at rajasthanjathostel@gmail.com."
+                        </p>
                 </div>
             </div>
         </Layout>
