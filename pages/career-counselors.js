@@ -217,10 +217,12 @@ export default function Courses() {
                                 }
                             </tbody>
                         </table>
+                        <table className="w-full divide-y divide-gray-200 bg-white-500" style={{minWidth: 800}}>
                         <p className="text-black-500 mt-4 mb-6">
                      We welcome candidates who have excelled in their field(Eg: Job/Service/Business) and like to mentor & motivate young minds. 
                      Send a mail with relevant details to rajasthanjathostel@gmail.com.
                         </p>
+                        </table>
                 </div>
             </div>
         </Layout>
