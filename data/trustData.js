@@ -7,8 +7,8 @@ const trustData = {
         "id": 1,
         "title": "श्री जाट चेरिटेबल ट्रस्ट, बाड़मेर",
         "description": "Barmer",
-        // "imgSrc": '/assets/hostel/jat-charitable.jpeg',  //missing
-        "imgSrc": '',  //missing
+        "imgSrc": '/assets/hostel/jat-charitable.jpeg', 
+        // "imgSrc": '',  //missing
         "data": '/assets/hostel/default.pdf', //missing
         // "href": "jat-charitable-barmer",
         "href": "default",
